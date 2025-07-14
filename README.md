@@ -16,12 +16,12 @@ This script fetches all the papers from the . It takes two args as inputs: the l
 
 Output is stored under [/results/researchr/](/results/researchr/).
 
-The following commands are run to retrieve the papers from the past 3 years:
+The following commands are run to retrieve papers from the past 3 years:
 
 ```shell
-python .\scraper.py https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#event-overview 2023
-python .\scraper.py https://conf.researchr.org/track/icse-2024/icse-2024-research-track?#event-overview 2024
-python .\scraper.py https://conf.researchr.org/track/icse-2025/icse-2025-research-track?#event-overview 2025
+python scraper.py https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#event-overview 2023
+python scraper.py https://conf.researchr.org/track/icse-2024/icse-2024-research-track?#event-overview 2024
+python scraper.py https://conf.researchr.org/track/icse-2025/icse-2025-research-track?#event-overview 2025
 ```
 
 ## Script 2: Processing BIB files from ACM Advanced Search
@@ -30,4 +30,8 @@ This script takes as input the path to a .bib file generated from exporting the 
 
 Output is stored under [/results/bib/](/results/bib/).
 
-The following commands are run to generate the 
+The following commands are run to generate the results:
+
+```shell
+python script.py data/all-keywords.bib output.csv
+```
