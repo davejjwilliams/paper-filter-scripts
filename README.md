@@ -20,7 +20,13 @@ The following commands are run to retrieve papers from the past 3 years:
 
 ```shell
 python scraper.py https://conf.researchr.org/track/icse-2023/icse-2023-technical-track?#event-overview 2023
+```
+
+```shell
 python scraper.py https://conf.researchr.org/track/icse-2024/icse-2024-research-track?#event-overview 2024
+```
+
+```shell
 python scraper.py https://conf.researchr.org/track/icse-2025/icse-2025-research-track?#event-overview 2025
 ```
 
