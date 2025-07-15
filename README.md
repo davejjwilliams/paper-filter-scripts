@@ -2,6 +2,11 @@
 
 This repository contains scripts used to fetch and process papers from the ICSE Research Track.
 
+## TODO
+
+- Retrieve replicability-filtered papers for 2023 and 2024 research track.
+- Update [`bib-converter`](bib-converter.py) to add extra columns for each tier of replicability.
+
 ## Setup
 
 To run the scripts, you need to install the required dependencies:
@@ -14,7 +19,7 @@ pip install -r requirements.txt
 
 This script fetches all the papers from the . It takes two args as inputs: the link to the technical track website and the year (used for the output filename).
 
-Output is stored under [/results/researchr/](/results/researchr/).
+Output is stored under [`/results/researchr/`](/results/researchr/).
 
 The following commands are run to retrieve papers from the past 3 years:
 
@@ -34,7 +39,7 @@ python scraper.py https://conf.researchr.org/track/icse-2025/icse-2025-research-
 
 This script takes as input the path to a .bib file generated from exporting the results in of an ACM Advanced Search, and produces a CSV.
 
-Output is stored under [/results/bib/](/results/bib/).
+Output is stored under [`/results/bib/`](/results/bib/).
 
 The following commands are run to generate the results:
 
