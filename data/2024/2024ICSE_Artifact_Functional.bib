@@ -1,0 +1,35 @@
+@inproceedings{10.1145/3597503.3639204,
+author = {Huang, Zunchen and Wang, Chao},
+title = {Constraint Based Program Repair for Persistent Memory Bugs},
+year = {2024},
+isbn = {9798400702174},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3597503.3639204},
+doi = {10.1145/3597503.3639204},
+abstract = {We propose a constraint based method for repairing bugs associated with the use of persistent memory (PM) in application software. Our method takes a program execution trace and the violated property as input and returns a suggested repair, which is a combination of inserting new PM instructions and reordering these instructions to eliminate the property violation. Compared with the state-of-the-art approach, our method has three advantages. First, it can repair both durability and crash consistency bugs whereas the state-of-the-art approach can only repair the relatively-simple durability bugs. Second, our method can discover new repair strategies instead of relying on repair strategies hard-coded into the repair tool. Third, our method uses a novel symbolic encoding to model PM semantics, which allows our symbolic analysis to be more efficient than the explicit enumeration of possible scenarios and thus explore a large number of repairs quickly. We have evaluated our method on benchmark programs from the well-known Intel PMDK library as well as real applications such as Memcached, Recipe, and Redis. The results show that our method can repair all of the 41 known bugs in these benchmarks, while the state-of-the-art approach cannot repair any of the crash consistency bugs.},
+booktitle = {Proceedings of the IEEE/ACM 46th International Conference on Software Engineering},
+articleno = {91},
+numpages = {12},
+location = {Lisbon, Portugal},
+series = {ICSE '24}
+}
+
+@inproceedings{10.1145/3597503.3639092,
+author = {Karakaya, Kadiray and Bodden, Eric},
+title = {Symbol-Specific Sparsification of Interprocedural Distributive Environment Problems},
+year = {2024},
+isbn = {9798400702174},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3597503.3639092},
+doi = {10.1145/3597503.3639092},
+abstract = {Previous work has shown that one can often greatly speed up static analysis by computing data flows not for every edge in the program's control-flow graph but instead only along definition-use chains. This yields a so-called sparse static analysis. Recent work on SparseDroid has shown that specifically taint analysis can be "sparsified" with extraordinary effectiveness because the taint state of one variable does not depend on those of others. This allows one to soundly omit more flow-function computations than in the general case.In this work, we now assess whether this result carries over to the more generic setting of so-called Interprocedural Distributive Environment (IDE) problems. Opposed to taint analysis, IDE comprises distributive problems with large or even infinitely broad domains, such as typestate analysis or linear constant propagation. Specifically, this paper presents Sparse IDE, a framework that realizes sparsification for any static analysis that fits the IDE framework.We implement Sparse IDE in SparseHeros, as an extension to the popular Heros IDE solver, and evaluate its performance on real-world Java libraries by comparing it to the baseline IDE algorithm. To this end, we design, implement and evaluate a linear constant propagation analysis client on top of SparseHeros. Our experiments show that, although IDE analyses can only be sparsified with respect to symbols and not (numeric) values, Sparse IDE can nonetheless yield significantly lower runtimes and often also memory consumptions compared to the original IDE.},
+booktitle = {Proceedings of the IEEE/ACM 46th International Conference on Software Engineering},
+articleno = {104},
+numpages = {12},
+keywords = {static analysis, sparse analysis, IFDS, IDE, constant propagation},
+location = {Lisbon, Portugal},
+series = {ICSE '24}
+}
+
