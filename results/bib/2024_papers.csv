@@ -1,0 +1,239 @@
+title,authors,url
+Trustworthy by Design,"Smith, Carol",https://doi.org/10.1145/3597503.3649400
+ICSE '24: Proceedings of the IEEE/ACM 46th International Conference on Software Engineering,,
+Empirical Analysis of Vulnerabilities Life Cycle in Golang Ecosystem,"Hu, Jinchang, Zhang, Lyuye, Liu, Chengwei, Yang, Sen, Huang, Song, Liu, Yang",https://doi.org/10.1145/3597503.3639230
+Lost in Translation: A Study of Bugs Introduced by Large Language Models while Translating Code,"Pan, Rangeet, Ibrahimzada, Ali Reza, Krishna, Rahul, Sankar, Divya, Wassi, Lambert Pouguem, Merler, Michele, Sobolev, Boris, Pavuluri, Raju, Sinha, Saurabh, Jabbarvand, Reyhaneh",https://doi.org/10.1145/3597503.3639226
+Safeguarding DeFi Smart Contracts against Oracle Deviations,"Deng, Xun, Beillahi, Sidi Mohamed, Minwalla, Cyrus, Du, Han, Veneris, Andreas, Long, Fan",https://doi.org/10.1145/3597503.3639225
+ModuleGuard: Understanding and Detecting Module Conflicts in Python Ecosystem,"Zhu, Ruofan, Wang, Xingyu, Liu, Chengwei, Xu, Zhengzi, Shen, Wenbo, Chang, Rui, Liu, Yang",https://doi.org/10.1145/3597503.3639221
+Evaluating Large Language Models in Class-Level Code Generation,"Du, Xueying, Liu, Mingwei, Wang, Kaixin, Wang, Hanlin, Liu, Junwei, Chen, Yixuan, Feng, Jiayi, Sha, Chaofeng, Peng, Xin, Lou, Yiling",https://doi.org/10.1145/3597503.3639219
+How Far Are We? The Triumphs and Trials of Generative AI in Learning Software Engineering,"Choudhuri, Rudrajit, Liu, Dylan, Steinmacher, Igor, Gerosa, Marco, Sarma, Anita",https://doi.org/10.1145/3597503.3639201
+Mining Pull Requests to Detect Process Anomalies in Open Source Software Development,"Liu, Bohan, Zhang, He, Ma, Weigang, Kuang, Hongyu, Yang, Yi, Xu, Jinwei, Gao, Shan, Gao, Jian",https://doi.org/10.1145/3597503.3639196
+Detecting Automatic Software Plagiarism via Token Sequence Normalization,Sa\u{g,https://doi.org/10.1145/3597503.3639192
+An Exploratory Investigation of Log Anomalies in Unmanned Aerial Vehicles,"Wang, Dinghua, Li, Shuqing, Xiao, Guanping, Liu, Yepang, Sui, Yulei, He, Pinjia, Lyu, Michael R.",https://doi.org/10.1145/3597503.3639186
+Make LLM a Testing Expert: Bringing Human-like Interaction to Mobile GUI Testing via Functionality-aware Decisions,"Liu, Zhe, Chen, Chunyang, Wang, Junjie, Chen, Mengzhuo, Wu, Boyu, Che, Xing, Wang, Dandan, Wang, Qing",https://doi.org/10.1145/3597503.3639180
+Crossover in Parametric Fuzzing,"Hough, Katherine, Bell, Jonathan",https://doi.org/10.1145/3597503.3639160
+DeepLSH: Deep Locality-Sensitive Hash Learning for Fast and Efficient Near-Duplicate Crash Report Detection,"Remil, Youcef, Bendimerad, Anes, Mathonat, Romain, Ra\""{\i",https://doi.org/10.1145/3597503.3639146
+PrettySmart: Detecting Permission Re-delegation Vulnerability for Token Behaviors in Smart Contracts,"Zhong, Zhijie, Zheng, Zibin, Dai, Hong-Ning, Xue, Qing, Chen, Junjia, Nan, Yuhong",https://doi.org/10.1145/3597503.3639140
+Traces of Memorisation in Large Language Models for Code,"Al-Kaswan, Ali, Izadi, Maliheh, van Deursen, Arie",https://doi.org/10.1145/3597503.3639133
+LibAlchemy: A Two-Layer Persistent Summary Design for Taming Third-Party Libraries in Static Bug-Finding Systems,"Wu, Rongxin, He, Yuxuan, Huang, Jiafeng, Wang, Chengpeng, Tang, Wensheng, Shi, Qingkai, Xiao, Xiao, Zhang, Charles",https://doi.org/10.1145/3597503.3639132
+Unraveling the Drivers of Sense of Belonging in Software Delivery Teams: Insights from a Large-Scale Survey,"Trinkenreich, Bianca, Gerosa, Marco Aurelio, Steinmacher, Igor",https://doi.org/10.1145/3597503.3639119
+MiniMon: Minimizing Android Applications with Intelligent Monitoring-Based Debloating,"Liu, Jiakun, Zhang, Zicheng, Hu, Xing, Thung, Ferdian, Maoz, Shahar, Gao, Debin, Toch, Eran, Zhao, Zhipeng, Lo, David",https://doi.org/10.1145/3597503.3639113
+Strengthening Supply Chain Security with Fine-grained Safe Patch Identification,"Luo, Changhua, Meng, Wei, Wang, Shuai",https://doi.org/10.1145/3597503.3639104
+Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models,"Gao, Shuzheng, Mao, Wenxin, Gao, Cuiyun, Li, Li, Hu, Xing, Xia, Xin, Lyu, Michael R.",https://doi.org/10.1145/3597503.3639216
+ROSInfer: Statically Inferring Behavioral Component Models for ROS-based Robotics Systems,"D\""{u",https://doi.org/10.1145/3597503.3639206
+RogueOne: Detecting Rogue Updates via Differential Data-flow Analysis Using Trust Domains,"Sofaer, Raphael J., David, Yaniv, Kang, Mingqing, Yu, Jianjia, Cao, Yinzhi, Yang, Junfeng, Nieh, Jason",https://doi.org/10.1145/3597503.3639199
+How Are Paid and Volunteer Open Source Developers Different? A Study of the Rust Project,"Zhang, Yuxia, Qin, Mian, Stol, Klaas-Jan, Zhou, Minghui, Liu, Hui",https://doi.org/10.1145/3597503.3639197
+ChatGPT Incorrectness Detection in Software Reviews,"Tanzil, Minaoar Hossain, Khan, Junaed Younus, Uddin, Gias",https://doi.org/10.1145/3597503.3639194
+FlashSyn: Flash Loan Attack Synthesis via Counter Example Driven Approximation,"Chen, Zhiyang, Beillahi, Sidi Mohamed, Long, Fan",https://doi.org/10.1145/3597503.3639190
+Using an LLM to Help With Code Understanding,"Nam, Daye, Macvean, Andrew, Hellendoorn, Vincent, Vasilescu, Bogdan, Myers, Brad",https://doi.org/10.1145/3597503.3639187
+Automatic Semantic Augmentation of Language Model Prompts (for Code Summarization),"Ahmed, Toufique, Pai, Kunal Suresh, Devanbu, Premkumar, Barr, Earl",https://doi.org/10.1145/3597503.3639183
+Ripples of a Mutation — An Empirical Study of Propagation Effects in Mutation Testing,"Du, Hang, Palepu, Vijay Krishna, Jones, James A.",https://doi.org/10.1145/3597503.3639179
+Semantic-Enhanced Static Vulnerability Detection in Baseband Firmware,"Liu, Yiming, Zhang, Cen, Li, Feng, Li, Yeting, Zhou, Jianhua, Wang, Jian, Zhan, Lanlan, Liu, Yang, Huo, Wei",https://doi.org/10.1145/3597503.3639158
+LLMParser: An Exploratory Study on Using Large Language Models for Log Parsing,"Ma, Zeyang, Chen, An Ran, Kim, Dong Jae, Chen, Tse-Hsun, Wang, Shaowei",https://doi.org/10.1145/3597503.3639150
+Recovering Trace Links Between Software Documentation And Code,"Keim, Jan, Corallo, Sophie, Fuch\ss{",https://doi.org/10.1145/3597503.3639130
+On Calibration of Pre-trained Code Models,"Zhou, Zhenhao, Sha, Chaofeng, Peng, Xin",https://doi.org/10.1145/3597503.3639126
+When Neural Code Completion Models Size up the Situation: Attaining Cheaper and Faster Completion through Dynamic Model Inference,"Sun, Zhensu, Du, Xiaoning, Song, Fu, Wang, Shangwen, Li, Li",https://doi.org/10.1145/3597503.3639120
+Optimistic Prediction of Synchronization-Reversal Data Races,"Shi, Zheng, Mathur, Umang, Pavlogiannis, Andreas",https://doi.org/10.1145/3597503.3639099
+Analyzing and Debugging Normative Requirements via Satisfiability Checking,"Feng, Nick, Marsso, Lina, Getir Yaman, Sinem, Baatartogtokh, Yesugen, Ayad, Reem, De Mello, Victoria Oldemburgo, Townsend, Beverley, Standen, Isobel, Stefanakos, Ioannis, Imrie, Calum, Rodrigues, Genaina Nunes, Cavalcanti, Ana, Calinescu, Radu, Chechik, Marsha",https://doi.org/10.1145/3597503.3639093
+An Empirical Study of Data Disruption by Ransomware Attacks,"Hou, Yiwei, Guo, Lihua, Zhou, Chijin, Xu, Yiwen, Yin, Zijing, Li, Shanshan, Sun, Chengnian, Jiang, Yu",https://doi.org/10.1145/3597503.3639090
+Supporting Web-Based API Searches in the IDE Using Signatures,"Bradley, Nick C., Fritz, Thomas, Holmes, Reid",https://doi.org/10.1145/3597503.3639089
+Less is More? An Empirical Study on Configuration Issues in Python PyPI Ecosystem,"Peng, Yun, Hu, Ruida, Wang, Ruoke, Gao, Cuiyun, Li, Shuqing, Lyu, Michael R.",https://doi.org/10.1145/3597503.3639077
+Software Engineering Research in a World with Generative Artificial Intelligence,"Rinard, Martin",https://doi.org/10.1145/3597503.3649399
+Challenges and Opportunities in Model Checking Large-scale Distributed Systems,"Majumdar, Rupak",https://doi.org/10.1145/3597503.3649398
+DeepSample: DNN sampling-based testing for operational accuracy assessment,"Guerriero, Antonio, Pietrantuono, Roberto, Russo, Stefano",https://doi.org/10.1145/3597503.3639584
+"""I tend to view ads almost like a pestilence"": On the Accessibility Implications of Mobile Ads for Blind Users","He, Ziyao, Huq, Syed Fatiul, Malek, Sam",https://doi.org/10.1145/3597503.3639228
+MultiTest: Physical-Aware Object Insertion for Testing Multi-sensor Fusion Perception Systems,"Gao, Xinyu, Wang, Zhijie, Feng, Yang, Ma, Lei, Chen, Zhenyu, Xu, Baowen",https://doi.org/10.1145/3597503.3639191
+ReFAIR: Toward a Context-Aware Recommender for Fairness Requirements Engineering,"Ferrara, Carmine, Casillo, Francesco, Gravino, Carmine, De Lucia, Andrea, Palomba, Fabio",https://doi.org/10.1145/3597503.3639185
+Demystifying and Detecting Misuses of Deep Learning APIs,"Wei, Moshi, Harzevili, Nima Shiri, Huang, Yuekai, Yang, Jinqiu, Wang, Junjie, Wang, Song",https://doi.org/10.1145/3597503.3639177
+Semantic GUI Scene Learning and Video Alignment for Detecting Duplicate Video-based Bug Reports,"Yan, Yanfu, Cooper, Nathan, Chaparro, Oscar, Moran, Kevin, Poshyvanyk, Denys",https://doi.org/10.1145/3597503.3639163
+DivLog: Log Parsing with Prompt Enhanced In-Context Learning,"Xu, Junjielong, Yang, Ruichun, Huo, Yintong, Zhang, Chengyu, He, Pinjia",https://doi.org/10.1145/3597503.3639155
+REDriver: Runtime Enforcement for Autonomous Vehicles,"Sun, Yang, Poskitt, Christopher M., Zhang, Xiaodong, Sun, Jun",https://doi.org/10.1145/3597503.3639151
+Curiosity-Driven Testing for Sequential Decision-Making Process,"He, Junda, Yang, Zhou, Shi, Jieke, Yang, Chengran, Kim, Kisub, Xu, Bowen, Zhou, Xin, Lo, David",https://doi.org/10.1145/3597503.3639149
+BinaryAI: Binary Software Composition Analysis via Intelligent Binary Source Code Matching,"Jiang, Ling, An, Junwen, Huang, Huihui, Tang, Qiyi, Nie, Sen, Wu, Shi, Zhang, Yuqun",https://doi.org/10.1145/3597503.3639100
+"Automated Program Repair, What Is It Good For? Not Absolutely Nothing!","Eladawy, Hadeel, Le Goues, Claire, Brun, Yuriy",https://doi.org/10.1145/3597503.3639095
+Revisiting Android App Categorization,"Alecci, Marco, Samhi, Jordan, Bissyande, Tegawende F., Klein, Jacques",https://doi.org/10.1145/3597503.3639094
+Out of Context: How important is Local Context in Neural Program Repair?,"Prenner, Julian Aron, Robbes, Romain",https://doi.org/10.1145/3597503.3639086
+Code Search is All You Need? Improving Code Suggestions with Code Search,"Chen, Junkai, Hu, Xing, Li, Zhenhao, Gao, Cuiyun, Xia, Xin, Lo, David",https://doi.org/10.1145/3597503.3639085
+Compiler-directed Migrating API Callsite of Client Code,"Zhong, Hao, Meng, Na",https://doi.org/10.1145/3597503.3639084
+PyAnalyzer: An Effective and Practical Approach for Dependency Extraction from Python Code,"Jin, Wuxia, Xu, Shuo, Chen, Dawei, He, Jiajun, Zhong, Dinghong, Fan, Ming, Chen, Hongxu, Zhang, Huijia, Liu, Ting",https://doi.org/10.1145/3597503.3640325
+Exploiting Library Vulnerability via Migration Based Automating Test Generation,"Chen, Zirui, Hu, Xing, Xia, Xin, Gao, Yi, Xu, Tongtong, Lo, David, Yang, Xiaohu",https://doi.org/10.1145/3597503.3639583
+PPT4J: Patch Presence Test for Java Binaries,"Pan, Zhiyuan, Hu, Xing, Xia, Xin, Zhan, Xian, Lo, David, Yang, Xiaohu",https://doi.org/10.1145/3597503.3639231
+On the Effectiveness of Function-Level Vulnerability Detectors for Inter-Procedural Vulnerabilities,"Li, Zhen, Wang, Ning, Zou, Deqing, Li, Yating, Zhang, Ruqian, Xu, Shouhuai, Zhang, Chao, Jin, Hai",https://doi.org/10.1145/3597503.3639218
+Fast Deterministic Black-box Context-free Grammar Inference,"Arefin, Mohammad Rifat, Shetiya, Suraj, Wang, Zili, Csallner, Christoph",https://doi.org/10.1145/3597503.3639214
+Verifying Declarative Smart Contracts,"Chen, Haoxian, Lu, Lan, Massey, Brendan, Wang, Yuepeng, Loo, Boon Thau",https://doi.org/10.1145/3597503.3639203
+Scaling Code Pattern Inference with Interactive What-If Analysis,"Kang, Hong Jin, Wang, Kevin, Kim, Miryung",https://doi.org/10.1145/3597503.3639193
+PyTy: Repairing Static Type Errors in Python,"Chow, Yiu Wai, Di Grazia, Luca, Pradel, Michael",https://doi.org/10.1145/3597503.3639184
+Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection,"Chen, Yizhou, Sun, Zeyu, Gong, Zhihao, Hao, Dan",https://doi.org/10.1145/3597503.3639173
+FuzzInMem: Fuzzing Programs via In-memory Structures,"Liu, Xuwei, You, Wei, Ye, Yapeng, Zhang, Zhuo, Huang, Jianjun, Zhang, Xiangyu",https://doi.org/10.1145/3597503.3639172
+TRIAD: Automated Traceability Recovery based on Biterm-enhanced Deduction of Transitive Links among Artifacts,"Gao, Hui, Kuang, Hongyu, Assun\c{c",https://doi.org/10.1145/3597503.3639164
+Practical Non-Intrusive GUI Exploration Testing with Visual-based Robotic Arms,"Yu, Shengcheng, Fang, Chunrong, Du, Mingzhe, Ling, Yuchen, Chen, Zhenyu, Su, Zhendong",https://doi.org/10.1145/3597503.3639161
+Enhancing Exploratory Testing by Large Language Model and Knowledge Graph,"Su, Yanqi, Liao, Dianshu, Xing, Zhenchang, Huang, Qing, Xie, Mulong, Lu, Qinghua, Xu, Xiwei",https://doi.org/10.1145/3597503.3639157
+A User-centered Security Evaluation of Copilot,"Asare, Owura, Nagappan, Meiyappan, Asokan, N.",https://doi.org/10.1145/3597503.3639154
+A Framework For Inferring Properties of User-Defined Functions,"Liu, Xinyu, Arulraj, Joy, Orso, Alessandro",https://doi.org/10.1145/3597503.3639147
+A Theory of Scientific Programming Efficacy,"Pertseva, Elizaveta, Chang, Melinda, Zaman, Ulia, Coblenz, Michael",https://doi.org/10.1145/3597503.3639139
+Efficiently Trimming the Fat: Streamlining Software Dependencies with Java Reflection and Dependency Analysis,"Song, Xiaohu, Wang, Ying, Cheng, Xiao, Liang, Guangtai, Wang, Qianxiang, Zhu, Zhiliang",https://doi.org/10.1145/3597503.3639123
+VGX: Large-Scale Sample Generation for Boosting Learning-Based Software Vulnerability Analyses,"Nong, Yu, Fang, Richard, Yi, Guangbei, Zhao, Kunsong, Luo, Xiapu, Chen, Feng, Cai, Haipeng",https://doi.org/10.1145/3597503.3639116
+Mozi: Discovering DBMS Bugs via Configuration-Based Equivalent Transformation,"Liang, Jie, Wu, Zhiyong, Fu, Jingzhou, Wang, Mingzhe, Sun, Chengnian, Jiang, Yu",https://doi.org/10.1145/3597503.3639112
+Comprehensive Semantic Repair of Obsolete GUI Test Scripts for Mobile Applications,"Cao, Shaoheng, Pan, Minxue, Pei, Yu, Yang, Wenhua, Zhang, Tian, Wang, Linzhang, Li, Xuandong",https://doi.org/10.1145/3597503.3639108
+Deep Combination of CDCL(T) and Local Search for Satisfiability Modulo Non-Linear Integer Arithmetic Theory,"Zhang, Xindi, Li, Bohan, Cai, Shaowei",https://doi.org/10.1145/3597503.3639105
+ReClues: Representing and indexing failures in parallel debugging with program variables,"Song, Yi, Zhang, Xihao, Xie, Xiaoyuan, Liu, Quanming, Gao, Ruizhi, Xing, Chenliang",https://doi.org/10.1145/3597503.3639098
+Causal Relationships and Programming Outcomes: A Transcranial Magnetic Stimulation Experiment,"Ahmad, Hammad, Endres, Madeline, Newman, Kaia, Santiesteban, Priscila, Shedden, Emma, Weimer, Westley",https://doi.org/10.1145/3597503.3639096
+SpecBCFuzz: Fuzzing LTL Solvers with Boundary Conditions,"Carvalho, Luiz, Degiovanni, Renzo, Cordy, Maxime, Aguirre, Nazareno, Le Traon, Yves, Papadakis, Mike",https://doi.org/10.1145/3597503.3639087
+Hypertesting of Programs: Theoretical Foundation and Automated Test Generation,"Pasqua, Michele, Ceccato, Mariano, Tonella, Paolo",https://doi.org/10.1145/3597503.3640323
+Combining Structured Static Code Information and Dynamic Symbolic Traces for Software Vulnerability Prediction,"Wang, Huanting, Tang, Zhanyong, Tan, Shin Hwei, Wang, Jie, Liu, Yuzhe, Fang, Hejun, Xia, Chunwei, Wang, Zheng",https://doi.org/10.1145/3597503.3639212
+Finding XPath Bugs in XML Document Processors via Differential Testing,"Li, Shuxin, Rigger, Manuel",https://doi.org/10.1145/3597503.3639208
+MetaLog: Generalizable Cross-System Anomaly Detection from Logs with Meta-Learning,"Zhang, Chenyangguang, Jia, Tong, Shen, Guopeng, Zhu, Pinyan, Li, Ying",https://doi.org/10.1145/3597503.3639205
+Constraint Based Program Repair for Persistent Memory Bugs,"Huang, Zunchen, Wang, Chao",https://doi.org/10.1145/3597503.3639204
+Where is it? Tracing the Vulnerability-relevant Files from Vulnerability Reports,"Sun, Jiamou, Chen, Jieshan, Xing, Zhenchang, Lu, Qinghua, Xu, Xiwei, Zhu, Liming",https://doi.org/10.1145/3597503.3639202
+Testing Graph Database Systems via Equivalent Query Rewriting,"Mang, Qiuyang, Fang, Aoyang, Yu, Boxi, Chen, Hanfei, He, Pinjia",https://doi.org/10.1145/3597503.3639200
+Context-Aware Name Recommendation for Field Renaming,"Dong, Chunhao, Jiang, Yanjie, Niu, Nan, Zhang, Yuxia, Liu, Hui",https://doi.org/10.1145/3597503.3639195
+Exploring Experiences with Automated Program Repair in Practice,"Meem, Fairuz Nawer, Smith, Justin, Johnson, Brittany",https://doi.org/10.1145/3597503.3639182
+S3C: Spatial Semantic Scene Coverage for Autonomous Vehicles,"Woodlief, Trey, Toledo, Felipe, Elbaum, Sebastian, Dwyer, Matthew B",https://doi.org/10.1145/3597503.3639178
+Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot,"OBrien, David, Biswas, Sumon, Imtiaz, Sayem Mohammad, Abdalkareem, Rabe, Shihab, Emad, Rajan, Hridesh",https://doi.org/10.1145/3597503.3639176
+Towards Causal Deep Learning for Vulnerability Detection,"Rahman, Md Mahbubur, Ceka, Ira, Mao, Chengzhi, Chakraborty, Saikat, Ray, Baishakhi, Le, Wei",https://doi.org/10.1145/3597503.3639170
+Raisin: Identifying Rare Sensitive Functions for Bug Detection,"Huang, Jianjun, Nie, Jianglei, Gong, Yuanjun, You, Wei, Liang, Bin, Bian, Pan",https://doi.org/10.1145/3597503.3639165
+Pre-training by Predicting Program Dependencies for Vulnerability Analysis Tasks,"Liu, Zhongxin, Tang, Zhijie, Zhang, Junwei, Xia, Xin, Yang, Xiaohu",https://doi.org/10.1145/3597503.3639142
+Generating REST API Specifications through Static Analysis,"Huang, Ruikai, Motwani, Manish, Martinez, Idel, Orso, Alessandro",https://doi.org/10.1145/3597503.3639137
+Streamlining Java Programming: Uncovering Well-Formed Idioms with IdioMine,"Yang, Yanming, Hu, Xing, Xia, Xin, Lo, David, Yang, Xiaohu",https://doi.org/10.1145/3597503.3639135
+PS3: Precise Patch Presence Test based on Semantic Symbolic Signature,"Zhan, Qi, Hu, Xing, Li, Zhiyang, Xia, Xin, Lo, David, Li, Shanping",https://doi.org/10.1145/3597503.3639134
+When Contracts Meets Crypto: Exploring Developers' Struggles with Ethereum Cryptographic APIs,"Zhang, Jiashuo, Chen, Jiachi, Wan, Zhiyuan, Chen, Ting, Gao, Jianbo, Chen, Zhong",https://doi.org/10.1145/3597503.3639131
+"""My GitHub Sponsors profile is live!"" Investigating the Impact of Twitter/X Mentions on GitHub Sponsors","Fan, Youmei, Xiao, Tao, Hata, Hideaki, Treude, Christoph, Matsumoto, Kenichi",https://doi.org/10.1145/3597503.3639127
+Fuzz4All: Universal Fuzzing with Large Language Models,"Xia, Chunqiu Steven, Paltenghi, Matteo, Le Tian, Jia, Pradel, Michael, Zhang, Lingming",https://doi.org/10.1145/3597503.3639121
+Testing the Limits: Unusual Text Inputs Generation for Mobile App Crash Detection with Large Language Model,"Liu, Zhe, Chen, Chunyang, Wang, Junjie, Chen, Mengzhuo, Wu, Boyu, Tian, Zhilin, Huang, Yuekai, Hu, Jun, Wang, Qing",https://doi.org/10.1145/3597503.3639118
+GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis,"Sun, Yuqiang, Wu, Daoyuan, Xue, Yue, Liu, Han, Wang, Haijun, Xu, Zhengzi, Xie, Xiaofei, Liu, Yang",https://doi.org/10.1145/3597503.3639117
+Development in times of hype: How freelancers explore Generative AI?,"Dolata, Mateusz, Lange, Norbert, Schwabe, Gerhard",https://doi.org/10.1145/3597503.3639111
+Are Your Requests Your True Needs? Checking Excessive Data Collection in VPA App,"Xie, Fuman, Yan, Chuan, Meng, Mark Huasong, Teng, Shaoming, Zhang, Yanjun, Bai, Guangdong",https://doi.org/10.1145/3597503.3639107
+RPG: Rust Library Fuzzing with Pool-based Fuzz Target Generation and Generic Support,"Xu, Zhiwu, Wu, Bohao, Wen, Cheng, Zhang, Bin, Qin, Shengchao, He, Mengda",https://doi.org/10.1145/3597503.3639102
+"GenderMag Improves Discoverability in the Field, Especially for Women: An Multi-Year Case Study of Suggest Edit, a Code Review Feature","Murphy-Hill, Emerson, Elizondo, Alberto, Murillo, Ambar, Harbach, Marian, Vasilescu, Bogdan, Carlson, Delphine, Dessloch, Florian",https://doi.org/10.1145/3597503.3639097
+Cross-Inlining Binary Function Similarity Detection,"Jia, Ang, Fan, Ming, Xu, Xi, Jin, Wuxia, Wang, Haijun, Liu, Ting",https://doi.org/10.1145/3597503.3639080
+Shedding Light on Software Engineering-specific Metaphors and Idioms,"Imran, Mia Mohammad, Chatterjee, Preetha, Damevski, Kostadin",https://doi.org/10.1145/3597503.3639585
+Identifying Affected Libraries and Their Ecosystems for Open Source Software Vulnerabilities,"Wu, Susheng, Song, Wenyan, Huang, Kaifeng, Chen, Bihuan, Peng, Xin",https://doi.org/10.1145/3597503.3639582
+An Empirical Study on Low GPU Utilization of Deep Learning Jobs,"Gao, Yanjie, He, Yichen, Li, Xinze, Zhao, Bo, Lin, Haoxiang, Liang, Yoyo, Zhong, Jing, Zhang, Hongyu, Wang, Jingzhou, Zeng, Yonghua, Gui, Keli, Tong, Jie, Yang, Mao",https://doi.org/10.1145/3597503.3639232
+Uncovering the Causes of Emotions in Software Developer Communication Using Zero-shot LLMs,"Imran, Mia Mohammad, Chatterjee, Preetha, Damevski, Kostadin",https://doi.org/10.1145/3597503.3639223
+An Empirical Study on Noisy Label Learning for Program Understanding,"Wang, Wenhan, Li, Yanzhou, Li, Anran, Zhang, Jian, Ma, Wei, Liu, Yang",https://doi.org/10.1145/3597503.3639217
+Sedar: Obtaining High-Quality Seeds for DBMS Fuzzing via Cross-DBMS SQL Transfer,"Fu, Jingzhou, Liang, Jie, Wu, Zhiyong, Jiang, Yu",https://doi.org/10.1145/3597503.3639210
+Programming Assistant for Exception Handling with CodeBERT,"Cai, Yuchen, Yadavally, Aashish, Mishra, Abhishek, Montejo, Genesis, Nguyen, Tien",https://doi.org/10.1145/3597503.3639188
+The Classics Never Go Out of Style: An Empirical Study of Downgrades from the Bazel Build Technology,"Alfadel, Mahmoud, McIntosh, Shane",https://doi.org/10.1145/3597503.3639169
+JLeaks: A Featured Resource Leak Repository Collected From Hundreds of Open-Source Java Projects,"Liu, Tianyang, Ji, Weixing, Dong, Xiaohui, Yao, Wuhuang, Wang, Yizhuo, Liu, Hui, Peng, Haiyang, Wang, Yuxuan",https://doi.org/10.1145/3597503.3639162
+CSChecker: Revisiting GDPR and CCPA Compliance of Cookie Banners on the Web,"Zhang, Mingxue, Meng, Wei, Zhou, You, Ren, Kui",https://doi.org/10.1145/3597503.3639159
+Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts,"Yang, Shuo, Chen, Jiachi, Huang, Mingyuan, Zheng, Zibin, Huang, Yuan",https://doi.org/10.1145/3597503.3639153
+Investigating White-Box Attacks for On-Device Models,"Zhou, Mingyi, Gao, Xiang, Wu, Jing, Liu, Kui, Sun, Hailong, Li, Li",https://doi.org/10.1145/3597503.3639144
+Prism: Decomposing Program Semantics for Code Clone Detection through Compilation,"Li, Haoran, Wang, Siqian, Quan, Weihong, Gong, Xiaoli, Su, Huayou, Zhang, Jin",https://doi.org/10.1145/3597503.3639129
+GrammarT5: Grammar-Integrated Pretrained Encoder-Decoder Neural Model for Code,"Zhu, Qihao, Liang, Qingyuan, Sun, Zeyu, Xiong, Yingfei, Zhang, Lu, Cheng, Shengyu",https://doi.org/10.1145/3597503.3639125
+Knowledge Graph Driven Inference Testing for Question Answering Software,"Wang, Jun, Li, Yanhui, Chen, Zhifei, Chen, Lin, Zhang, Xiaofang, Zhou, Yuming",https://doi.org/10.1145/3597503.3639109
+CERT: Finding Performance Issues in Database Systems Through the Lens of Cardinality Estimation,"Ba, Jinsheng, Rigger, Manuel",https://doi.org/10.1145/3597503.3639076
+Barriers for Students During Code Change Comprehension,"Middleton, Justin, Ore, John-Paul, Stolee, Kathryn T",https://doi.org/10.1145/3597503.3639227
+"Out of Sight, Out of Mind: Better Automatic Vulnerability Repair by Broadening Input Ranges and Sources","Zhou, Xin, Kim, Kisub, Xu, Bowen, Han, Donggyun, Lo, David",https://doi.org/10.1145/3597503.3639222
+Precise Sparse Abstract Execution via Cross-Domain Interaction,"Cheng, Xiao, Wang, Jiawei, Sui, Yulei",https://doi.org/10.1145/3597503.3639220
+CNEPS: A Precise Approach for Examining Dependencies among Third-Party C/C++ Open-Source Components,"Na, Yoonjong, Woo, Seunghoon, Lee, Joomyeong, Lee, Heejo",https://doi.org/10.1145/3597503.3639209
+ACAV: A Framework for Automatic Causality Analysis in Autonomous Vehicle Accident Recordings,"Sun, Huijia, Poskitt, Christopher M., Sun, Yang, Sun, Jun, Chen, Yuqi",https://doi.org/10.1145/3597503.3639175
+Coca: Improving and Explaining Graph Neural Network-Based Vulnerability Detection Systems,"Cao, Sicong, Sun, Xiaobing, Wu, Xiaoxue, Lo, David, Bo, Lili, Li, Bin, Liu, Wei",https://doi.org/10.1145/3597503.3639168
+A First Look at the Inheritance-Induced Redundant Test Execution,"Kim, Dong Jae, Yang, Jinqiu, Chen, Tse-Hsun",https://doi.org/10.1145/3597503.3639166
+Empirical Study of the Docker Smells Impact on the Image Size,"Durieux, Thomas",https://doi.org/10.1145/3597503.3639143
+MalwareTotal: Multi-Faceted and Sequence-Aware Bypass Tactics against Static Malware Detection,"He, Shuai, Fu, Cai, Hu, Hong, Chen, Jiahe, Lv, Jianqiang, Jiang, Shuai",https://doi.org/10.1145/3597503.3639141
+Towards Finding Accounting Errors in Smart Contracts,"Zhang, Brian",https://doi.org/10.1145/3597503.3639128
+MUT: Human-in-the-Loop Unit Test Migration,"Gao, Yi, Hu, Xing, Xu, Tongtong, Xia, Xin, Lo, David, Yang, Xiaohu",https://doi.org/10.1145/3597503.3639124
+MalCertain: Enhancing Deep Neural Network Based Android Malware Detection by Tackling Prediction Uncertainty,"Li, Haodong, Xu, Guosheng, Wang, Liu, Xiao, Xusheng, Luo, Xiapu, Xu, Guoai, Wang, Haoyu",https://doi.org/10.1145/3597503.3639122
+Machine Learning is All You Need: A Simple Token-based Approach for Effective Code Clone Detection,"Feng, Siyue, Suo, Wenqi, Wu, Yueming, Zou, Deqing, Liu, Yang, Jin, Hai",https://doi.org/10.1145/3597503.3639114
+Towards More Practical Automation of Vulnerability Assessment,"Pan, Shengyi, Bao, Lingfeng, Zhou, Jiayuan, Hu, Xing, Xia, Xin, Li, Shanping",https://doi.org/10.1145/3597503.3639110
+CIT4DNN: Generating Diverse and Rare Inputs for Neural Networks Using Latent Space Combinatorial Testing,"Dola, Swaroopa, McDaniel, Rory, Dwyer, Matthew B., Soffa, Mary Lou",https://doi.org/10.1145/3597503.3639106
+Rust-lancet: Automated Ownership-Rule-Violation Fixing with Behavior Preservation,"Yang, Wenzhang, Song, Linhai, Xue, Yinxing",https://doi.org/10.1145/3597503.3639103
+Symbol-Specific Sparsification of Interprocedural Distributive Environment Problems,"Karakaya, Kadiray, Bodden, Eric",https://doi.org/10.1145/3597503.3639092
+Trace-based Multi-Dimensional Root Cause Localization of Performance Issues in Microservice Systems,"Zhang, Chenxi, Dong, Zhen, Peng, Xin, Zhang, Bicheng, Chen, Miao",https://doi.org/10.1145/3597503.3639088
+Fairness Improvement with Multiple Protected Attributes: How Far Are We?,"Chen, Zhenpeng, Zhang, Jie M., Sarro, Federica, Harman, Mark",https://doi.org/10.1145/3597503.3639083
+An Empirical Study on Oculus Virtual Reality Applications: Security and Privacy Perspectives,"Guo, Hanyang, Dai, Hong-Ning, Luo, Xiapu, Zheng, Zibin, Xu, Gengyang, He, Fengliang",https://doi.org/10.1145/3597503.3639082
+Concrete Constraint Guided Symbolic Execution,"Sun, Yue, Yang, Guowei, Lv, Shichao, Li, Zhi, Sun, Limin",https://doi.org/10.1145/3597503.3639078
+Property-Based Testing in Practice,"Goldstein, Harrison, Cutler, Joseph W., Dickstein, Daniel, Pierce, Benjamin C., Head, Andrew",https://doi.org/10.1145/3597503.3639581
+Data-Driven Evidence-Based Syntactic Sugar Design,"OBrien, David, Dyer, Robert, Nguyen, Tien, Rajan, Hridesh",https://doi.org/10.1145/3597503.3639580
+Automatically Detecting Reflow Accessibility Issues in Responsive Web Pages,"Chiou, Paul T., Winn, Robert, Alotaibi, Ali S., Halfond, William G. J.",https://doi.org/10.1145/3597503.3639229
+DSFM: Enhancing Functional Code Clone Detection with Deep Subtree Interactions,"Xu, Zhiwei, Qiang, Shaohua, Song, Dinghong, Zhou, Min, Wan, Hai, Zhao, Xibin, Luo, Ping, Zhang, Hongyu",https://doi.org/10.1145/3597503.3639215
+SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network,"Luo, Feng, Luo, Ruijie, Chen, Ting, Qiao, Ao, He, Zheyuan, Song, Shuwei, Jiang, Yu, Li, Sixing",https://doi.org/10.1145/3597503.3639213
+A Study on the Pythonic Functional Constructs' Understandability,"Zid, Cyrine, Zampetti, Fiorella, Antoniol, Giuliano, Di Penta, Massimiliano",https://doi.org/10.1145/3597503.3639211
+Understanding Transaction Bugs in Database Systems,"Cui, Ziyu, Dou, Wensheng, Gao, Yu, Wang, Dong, Song, Jiansen, Zheng, Yingying, Wang, Tao, Yang, Rui, Xu, Kang, Hu, Yixin, Wei, Jun, Huang, Tao",https://doi.org/10.1145/3597503.3639207
+Extrapolating Coverage Rate in Greybox Fuzzing,"Liyanage, Danushka, Lee, Seongmin, Tantithamthavorn, Chakkrit, B\""{o",https://doi.org/10.1145/3597503.3639198
+Translation Validation for JIT Compiler in the V8 JavaScript Engine,"Kwon, Seungwan, Kwon, Jaeseong, Kang, Wooseok, Lee, Juneyoung, Heo, Kihong",https://doi.org/10.1145/3597503.3639189
+MAFT: Efficient Model-Agnostic Fairness Testing for Deep Neural Networks via Zero-Order Gradient Search,"Wang, Zhaohui, Zhang, Min, Yang, Jingran, Shao, Bojie, Zhang, Min",https://doi.org/10.1145/3597503.3639181
+Evaluating Code Summarization Techniques: A New Metric and an Empirical Characterization,"Mastropaolo, Antonio, Ciniselli, Matteo, Di Penta, Massimiliano, Bavota, Gabriele",https://doi.org/10.1145/3597503.3639174
+Scalable Relational Analysis via Relational Bound Propagation,"Stevens, Clay, Bagheri, Hamid",https://doi.org/10.1145/3597503.3639171
+MotorEase: Automated Detection of Motor Impairment Accessibility Issues in Mobile App UIs,"Krishna Vajjala, Arun, Mansur, S M Hasan, Jose, Justin, Moran, Kevin",https://doi.org/10.1145/3597503.3639167
+Tensor-Aware Energy Accounting,"Babakol, Timur, Liu, Yu David",https://doi.org/10.1145/3597503.3639156
+Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers,"Wu, Shuohan, Li, Zihao, Yan, Luyi, Chen, Weimin, Jiang, Muhui, Wang, Chenxu, Luo, Xiapu, Zhou, Hao",https://doi.org/10.1145/3597503.3639152
+"Fine-grained, accurate and scalable source differencing","Falleri, Jean-Remy, Martinez, Matias",https://doi.org/10.1145/3597503.3639148
+High Expectations: An Observational Study of Programming and Cannabis Intoxication,"He, Wenxin, Parikh, Manasvi, Weimer, Westley, Endres, Madeline",https://doi.org/10.1145/3597503.3639145
+Language Models for Code Completion: A Practical Evaluation,"Izadi, Maliheh, Katzy, Jonathan, Van Dam, Tim, Otten, Marc, Popescu, Razvan Mihai, Van Deursen, Arie",https://doi.org/10.1145/3597503.3639138
+Is unsafe an Achilles' Heel? A Comprehensive Study of Safety Requirements in Unsafe Rust Programming,"Cui, Mohan, Sun, Shuran, Xu, Hui, Zhou, Yangfan",https://doi.org/10.1145/3597503.3639136
+FlakeSync: Automatically Repairing Async Flaky Tests,"Rahman, Shanto, Shi, August",https://doi.org/10.1145/3597503.3639115
+Hard to Read and Understand Pythonic Idioms? DeIdiom and Explain Them in Non-Idiomatic Equivalent Code,"Zhang, Zejun, Xing, Zhenchang, Zhao, Dehai, Lu, Qinghua, Xu, Xiwei, Zhu, Liming",https://doi.org/10.1145/3597503.3639101
+On Extracting Specialized Code Abilities from Large Language Models: A Feasibility Study,"Li, Zongjie, Wang, Chaozheng, Ma, Pingchuan, Liu, Chaowei, Wang, Shuai, Wu, Daoyuan, Gao, Cuiyun, Liu, Yang",https://doi.org/10.1145/3597503.3639091
+Xpert: Empowering Incident Management with Query Recommendations via Large Language Models,"Jiang, Yuxuan, Zhang, Chaoyun, He, Shilin, Yang, Zhihao, Ma, Minghua, Qin, Si, Kang, Yu, Dang, Yingnong, Rajmohan, Saravan, Lin, Qingwei, Zhang, Dongmei",https://doi.org/10.1145/3597503.3639081
+Breaking the Flow: A Study of Interruptions During Software Engineering Activities,"Ma, Yimeng, Huang, Yu, Leach, Kevin",https://doi.org/10.1145/3597503.3639079
+ChatGPT-Resistant Screening Instrument for Identifying Non-Programmers,"Serafini, Raphael, Otto, Clemens, Horstmann, Stefan Albert, Naiakshina, Alena",https://doi.org/10.1145/3597503.3639075
+Unveiling Memorization in Code Models,"Yang, Zhou, Zhao, Zhipeng, Wang, Chenyu, Shi, Jieke, Kim, Dongsun, Han, Donggyun, Lo, David",https://doi.org/10.1145/3597503.3639074
+On the Helpfulness of Answering Developer Questions on Discord with Similar Conversations and Posts from the Past,"Lill, Alexander, Meyer, Andr\'{e",https://doi.org/10.1145/3597503.3623341
+RUNNER: Responsible UNfair NEuron Repair for Enhancing Deep Neural Network Fairness,"Li, Tianlin, Cao, Yue, Zhang, Jian, Zhao, Shiqian, Huang, Yihao, Liu, Aishan, Guo, Qing, Liu, Yang",https://doi.org/10.1145/3597503.3623334
+"Characterizing Software Maintenance Meetings: Information Shared, Discussion Outcomes, and Information Captured","Soria, Adriana Meza, Lopez, Taylor, Seero, Elizabeth, Mashhadi, Negin, Evans, Emily, Burge, Janet, Van der Hoek, Andr\'{e",https://doi.org/10.1145/3597503.3623330
+How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community,"Zhang, Yang, Wu, Yiwen, Chen, Tingting, Wang, Tao, Liu, Hui, Wang, Huaimin",https://doi.org/10.1145/3597503.3623327
+Semantic Analysis of Macro Usage for Portability,"Pappas, Brent, Gazzillo, Paul",https://doi.org/10.1145/3597503.3623323
+CoderEval: A Benchmark of Pragmatic Code Generation with Generative Pre-trained Models,"Yu, Hao, Shen, Bo, Ran, Dezhi, Zhang, Jiaxin, Zhang, Qi, Ma, Yuchi, Liang, Guangtai, Li, Ying, Wang, Qianxiang, Xie, Tao",https://doi.org/10.1145/3597503.3623316
+TRACED: Execution-aware Pre-training for Source Code,"Ding, Yangruibo, Steenhoek, Benjamin, Pei, Kexin, Kaiser, Gail, Le, Wei, Ray, Baishakhi",https://doi.org/10.1145/3597503.3608140
+Modularizing while Training: A New Paradigm for Modularizing DNN Models,"Qi, Binhang, Sun, Hailong, Zhang, Hongyu, Zhao, Ruobing, Gao, Xiang",https://doi.org/10.1145/3597503.3608135
+Large Language Models are Few-Shot Summarizers: Multi-Intent Comment Generation via In-Context Learning,"Geng, Mingyang, Wang, Shangwen, Dong, Dezun, Wang, Haotian, Li, Ge, Jin, Zhi, Mao, Xiaoguang, Liao, Xiangke",https://doi.org/10.1145/3597503.3608134
+How to Support ML End-User Programmers through a Conversational Agent,"Arteaga Garcia, Emily Judith, Nicolaci Pimentel, Jo\~{a",https://doi.org/10.1145/3597503.3608130
+Demystifying Compiler Unstable Feature Usage and Impacts in the Rust Ecosystem,"Li, Chenghao, Wu, Yifei, Shen, Wenbo, Zhao, Zichen, Chang, Rui, Liu, Chengwei, Liu, Yang, Ren, Kui",https://doi.org/10.1145/3597503.3623352
+Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability Detection,"Steenhoek, Benjamin, Gao, Hongyang, Le, Wei",https://doi.org/10.1145/3597503.3623345
+LibvDiff: Library Version Difference Guided OSS Version Identification in Binaries,"Dong, Chaopeng, Li, Siyuan, Yang, Shouguo, Xiao, Yang, Wang, Yongpan, Li, Hong, Li, Zhi, Sun, Limin",https://doi.org/10.1145/3597503.3623336
+NuzzleBug: Debugging Block-Based Programs in Scratch,"Deiner, Adina, Fraser, Gordon",https://doi.org/10.1145/3597503.3623331
+PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph (CRBG),"Liang, Ruichao, Chen, Jing, He, Kun, Wu, Yueming, Deng, Gelei, Du, Ruiying, Wu, Cong",https://doi.org/10.1145/3597503.3623318
+Attention! Your Copied Data is Under Monitoring: A Systematic Study of Clipboard Usage in Android Apps,"Chen, Yongliang, Tang, Ruoqin, Zuo, Chaoshun, Zhang, Xiaokuan, Xue, Lei, Luo, Xiapu, Zhao, Qingchuan",https://doi.org/10.1145/3597503.3623317
+Practical Program Repair via Preference-based Ensemble Strategy,"Zhong, Wenkang, Li, Chuanyi, Liu, Kui, Xu, Tongtong, Ge, Jidong, Bissyande, Tegawende F., Luo, Bin, Ng, Vincent",https://doi.org/10.1145/3597503.3623310
+Marco: A Stochastic Asynchronous Concolic Explorer,"Hu, Jie, Duan, Yue, Yin, Heng",https://doi.org/10.1145/3597503.3623301
+Prompting Is All You Need: Automated Android Bug Replay with Large Language Models,"Feng, Sidong, Chen, Chunyang",https://doi.org/10.1145/3597503.3608137
+LogShrink: Effective Log Compression by Leveraging Commonality and Variability of Log Data,"Li, Xiaoyun, Zhang, Hongyu, Le, Van-Hoang, Chen, Pengfei",https://doi.org/10.1145/3597503.3608129
+SCTrans: Constructing a Large Public Scenario Dataset for Simulation Testing of Autonomous Driving Systems,"Dai, Jiarun, Gao, Bufan, Luo, Mingyuan, Huang, Zongan, Li, Zhongrui, Zhang, Yuan, Yang, Min",https://doi.org/10.1145/3597503.3623350
+Large Language Models for Test-Free Fault Localization,"Yang, Aidan Z. H., Le Goues, Claire, Martins, Ruben, Hellendoorn, Vincent",https://doi.org/10.1145/3597503.3623342
+Predicting Performance and Accuracy of Mixed-Precision Programs for Precision Tuning,"Wang, Yutong, Rubio-Gonz\'{a",https://doi.org/10.1145/3597503.3623338
+Inferring Data Preconditions from Deep Learning Models for Trustworthy Prediction in Deployment,"Ahmed, Shibbir, Gao, Hongyang, Rajan, Hridesh",https://doi.org/10.1145/3597503.3623333
+ECFuzz: Effective Configuration Fuzzing for Large-Scale Systems,"Li, Junqiang, Li, Senyi, Li, Keyao, Luo, Falin, Yu, Hongfang, Li, Shanshan, Li, Xiang",https://doi.org/10.1145/3597503.3623315
+EGFE: End-to-end Grouping of Fragmented Elements in UI Designs with Multimodal Learning,"Chen, Liuqing, Chen, Yunnong, Xiao, Shuhong, Song, Yaxuan, Sun, Lingyun, Zhen, Yankun, Zhou, Tingting, Chang, Yanfang",https://doi.org/10.1145/3597503.3623313
+Learning and Repair of Deep Reinforcement Learning Policies from Fuzz-Testing Data,"Tappler, Martin, Pferscher, Andrea, Aichernig, Bernhard K., K\""{o",https://doi.org/10.1145/3597503.3623311
+Co-Creation in Fully Remote Software Teams,"Jackson, Victoria, Prikladnicki, Rafael, van der Hoek, Andre",https://doi.org/10.1145/3597503.3623297
+Learning-based Widget Matching for Migrating GUI Test Cases,"Zhang, Yakun, Zhang, Wenjie, Ran, Dezhi, Zhu, Qihao, Dou, Chengfeng, Hao, Dan, Xie, Tao, Zhang, Lu",https://doi.org/10.1145/3597503.3623322
+A Comprehensive Study of Learning-based Android Malware Detectors under Challenging Environments,"Gao, Cuiying, Huang, Gaozhun, Li, Heng, Wu, Bang, Wu, Yueming, Yuan, Wei",https://doi.org/10.1145/3597503.3623320
+Object Graph Programming,"Thimmaiah, Aditya, Lampropoulos, Leonidas, Rossbach, Christopher, Gligoric, Milos",https://doi.org/10.1145/3597503.3623319
+Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study,"Guo, Qi, Cao, Junming, Xie, Xiaofei, Liu, Shangqing, Li, Xiaohong, Chen, Bihuan, Peng, Xin",https://doi.org/10.1145/3597503.3623306
+KnowLog: Knowledge Enhanced Pre-trained Language Model for Log Understanding,"Ma, Lipeng, Yang, Weidong, Xu, Bo, Jiang, Sihang, Fei, Ben, Liang, Jiaqing, Zhou, Mingjie, Xiao, Yanghua",https://doi.org/10.1145/3597503.3623304
+CrashTranslator: Automatically Reproducing Mobile Application Crashes Directly from Stack Trace,"Huang, Yuchao, Wang, Junjie, Liu, Zhe, Wang, Yawen, Wang, Song, Chen, Chunyang, Hu, Yuanzhe, Wang, Qing",https://doi.org/10.1145/3597503.3623298
+"Novelty Begets Popularity, But Curbs Participation - A Macroscopic View of the Python Open-Source Ecosystem","Fang, Hongbo, Herbsleb, James, Vasilescu, Bogdan",https://doi.org/10.1145/3597503.3608142
+A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges,"Liang, Jenny T., Yang, Chenyang, Myers, Brad A.",https://doi.org/10.1145/3597503.3608128
+"It's Not a Feature, It's a Bug: Fault-Tolerant Model Mining from Noisy Data","Wallner, Felix, Aichernig, Bernhard K., Burghard, Christian",https://doi.org/10.1145/3597503.3623346
+VeRe: Verification Guided Synthesis for Repairing Deep Neural Networks,"Ma, Jianan, Yang, Pengfei, Wang, Jingyi, Sun, Youcheng, Huang, Cheng-Chao, Wang, Zhen",https://doi.org/10.1145/3597503.3623332
+DEMISTIFY: Identifying On-device Machine Learning Models Stealing and Reuse Vulnerabilities in Mobile Apps,"Ren, Pengcheng, Zuo, Chaoshun, Liu, Xiaofeng, Diao, Wenrui, Zhao, Qingchuan, Guo, Shanqing",https://doi.org/10.1145/3597503.3623325
+DocFlow: Extracting Taint Specifications from Software Documentation,"Tileria, Marcos, Blasco, Jorge, Dash, Santanu Kumar",https://doi.org/10.1145/3597503.3623312
+Deep Learning or Classical Machine Learning? An Empirical Study on Log-Based Anomaly Detection,"Yu, Boxi, Yao, Jiayi, Fu, Qiuai, Zhong, Zhiqing, Xie, Haotian, Wu, Yaoliang, Ma, Yuchi, He, Pinjia",https://doi.org/10.1145/3597503.3623308
+Detecting Logic Bugs in Graph Database Management Systems via Injective and Surjective Graph Query Transformation,"Jiang, Yuancheng, Liu, Jiahao, Ba, Jinsheng, Yap, Roland H. C., Liang, Zhenkai, Rigger, Manuel",https://doi.org/10.1145/3597503.3623307
+Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?,"Chaliasos, Stefanos, Charalambous, Marcos Antonios, Zhou, Liyi, Galanopoulou, Rafaila, Gervais, Arthur, Mitropoulos, Dimitris, Livshits, Benjamin",https://doi.org/10.1145/3597503.3623302
+Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors,"Peng, Yun, Gao, Shuzheng, Gao, Cuiyun, Huo, Yintong, Lyu, Michael",https://doi.org/10.1145/3597503.3608132
+Toward Automatically Completing GitHub Workflows,"Mastropaolo, Antonio, Zampetti, Fiorella, Bavota, Gabriele, Di Penta, Massimiliano",https://doi.org/10.1145/3597503.3623351
+Fine-SE: Integrating Semantic Features and Expert Features for Software Effort Estimation,"Li, Yue, Ren, Zhong, Wang, Zhiqi, Yang, Lanxin, Dong, Liming, Zhong, Chenxing, Zhang, He",https://doi.org/10.1145/3597503.3623349
+Enabling Runtime Verification of Causal Discovery Algorithms with Automated Conditional Independence Reasoning,"Ma, Pingchuan, Ji, Zhenlan, Yao, Peisen, Wang, Shuai, Ren, Kui",https://doi.org/10.1145/3597503.3623348
+Deeply Reinforcing Android GUI Testing with Deep Reinforcement Learning,"Lan, Yuanhong, Lu, Yifei, Li, Zhong, Pan, Minxue, Yang, Wenhua, Zhang, Tian, Li, Xuandong",https://doi.org/10.1145/3597503.3623344
+Resource Usage and Optimization Opportunities in Workflows of GitHub Actions,"Bouzenia, Islem, Pradel, Michael",https://doi.org/10.1145/3597503.3623303
+Reorder Pointer Flow in Sound Concurrency Bug Prediction,"Guo, Yuqi, Zhu, Shihao, Cai, Yan, He, Liang, Zhang, Jian",https://doi.org/10.1145/3597503.3623300
+On Using GUI Interaction Data to Improve Text Retrieval-based Bug Localization,"Mahmud, Junayed, De Silva, Nadeeshan, Khan, Safwat Ali, Mostafavi, Seyed Hooman, Mansur, S M Hasan, Chaparro, Oscar, Marcus, Andrian (Andi), Moran, Kevin",https://doi.org/10.1145/3597503.3608139
+Kind Controllers and Fast Heuristics for Non-Well-Separated GR(1) Specifications,"Gorenstein, Ariel, Maoz, Shahar, Ringert, Jan Oliver",https://doi.org/10.1145/3597503.3608131
+BOMs Away! Inside the Minds of Stakeholders: A Comprehensive Study of Bills of Materials for Software Systems,"Stalnaker, Trevor, Wintersgill, Nathan, Chaparro, Oscar, Di Penta, Massimiliano, German, Daniel M, Poshyvanyk, Denys",https://doi.org/10.1145/3597503.3623347
+Large Language Models are Edge-Case Generators: Crafting Unusual Programs for Fuzzing Deep Learning Libraries,"Deng, Yinlin, Xia, Chunqiu Steven, Yang, Chenyuan, Zhang, Shizhuo Dylan, Yang, Shujing, Zhang, Lingming",https://doi.org/10.1145/3597503.3623343
+ITER: Iterative Neural Repair for Multi-Location Patches,"Ye, He, Monperrus, Martin",https://doi.org/10.1145/3597503.3623337
+Block-based Programming for Two-Armed Robots: A Comparative Study,"Fronchetti, Felipe, Ritschel, Nico, Schorr, Logan, Barfield, Chandler, Chang, Gabriella, Spinola, Rodrigo, Holmes, Reid, Shepherd, David C.",https://doi.org/10.1145/3597503.3623329
+BinAug: Enhancing Binary Similarity Analysis with Low-Cost Input Repairing,"Wong, Wai Kin, Wang, Huaijin, Li, Zongjie, Wang, Shuai",https://doi.org/10.1145/3597503.3623328
+UniLog: Automatic Logging via LLM and In-Context Learning,"Xu, Junjielong, Cui, Ziang, Zhao, Yuan, Zhang, Xu, He, Shilin, He, Pinjia, Li, Liqun, Kang, Yu, Lin, Qingwei, Dang, Yingnong, Rajmohan, Saravan, Zhang, Dongmei",https://doi.org/10.1145/3597503.3623326
+FuzzSlice: Pruning False Positives in Static Analysis Warnings through Function-Level Fuzzing,"Murali, Aniruddhan, Mathews, Noble, Alfadel, Mahmoud, Nagappan, Meiyappan, Xu, Meng",https://doi.org/10.1145/3597503.3623321
+Do Automatic Test Generation Tools Generate Flaky Tests?,"Gruber, Martin, Roslan, Muhammad Firhard, Parry, Owain, Scharnb\""{o",https://doi.org/10.1145/3597503.3608138
+Predicting open source contributor turnover from value-related discussions: An analysis of GitHub issues,"Jamieson, Jack, Yamashita, Naomi, Foong, Eureka",https://doi.org/10.1145/3597503.3623340
+Improving Testing Behavior by Gamifying IntelliJ,"Straubinger, Philipp, Fraser, Gordon",https://doi.org/10.1145/3597503.3623339
+Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts,"Huang, Mingyuan, Chen, Jiachi, Jiang, Zigui, Zheng, Zibin",https://doi.org/10.1145/3597503.3623335
+Towards Reliable AI: Adequacy Metrics for Ensuring the Quality of System-level Testing of Autonomous Vehicles,"Neelofar, Neelofar, Aleti, Aldeida",https://doi.org/10.1145/3597503.3623314
+Unveiling the Life Cycle of User Feedback: Best Practices from Software Practitioners,"Li, Ze Shi, Arony, Nowshin Nawar, Devathasan, Kezia, Sihag, Manish, Ernst, Neil, Damian, Daniela",https://doi.org/10.1145/3597503.3623309
+Toward Improved Deep Learning-based Vulnerability Detection,"Sejfia, Adriana, Das, Satyaki, Shafiq, Saad, Medvidovi\'{c",https://doi.org/10.1145/3597503.3608141
+FAIR: Flow Type-Aware Pre-Training of Compiler Intermediate Representations,"Niu, Changan, Li, Chuanyi, Ng, Vincent, Lo, David, Luo, Bin",https://doi.org/10.1145/3597503.3608136
+EDEFuzz: A Web API Fuzzer for Excessive Data Exposures,"Pan, Lianglu, Cohney, Shaanan, Murray, Toby, Pham, Van-Thuan",https://doi.org/10.1145/3597503.3608133

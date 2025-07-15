@@ -39,5 +39,9 @@ Output is stored under [/results/bib/](/results/bib/).
 The following commands are run to generate the results:
 
 ```shell
-python script.py data/all-keywords.bib output.csv
+python bib-converter.py data/2023ICSE.bib 2023_papers.csv
+```
+
+```shell
+python bib-converter.py data/2024ICSE.bib 2024_papers.csv
 ```

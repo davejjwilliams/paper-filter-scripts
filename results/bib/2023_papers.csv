@@ -1,0 +1,212 @@
+title,authors,url
+Log Parsing with Prompt-Based Few-Shot Learning,"Le, Van-Hoang, Zhang, Hongyu",https://doi.org/10.1109/ICSE48619.2023.00204
+Context-Aware Bug Reproduction for Mobile Apps,"Huang, Yuchao, Wang, Junjie, Liu, Zhe, Wang, Song, Chen, Chunyang, Li, Mingyang, Wang, Qing",https://doi.org/10.1109/ICSE48619.2023.00196
+Vulnerability Detection with Graph Simplification and Enhanced Graph Representation Learning,"Wen, Xin-Cheng, Chen, Yupan, Gao, Cuiyun, Zhang, Hongyu, Zhang, Jie M., Liao, Qing",https://doi.org/10.1109/ICSE48619.2023.00191
+DIVER: Oracle-Guided SMT Solver Testing with Unrestricted Random Mutations,"Kim, Jongwook, So, Sunbeom, Oh, Hakjoo",https://doi.org/10.1109/ICSE48619.2023.00187
+On the Robustness of Code Generation Techniques: An Empirical Study on GitHub Copilot,"Mastropaolo, Antonio, Pascarella, Luca, Guglielmi, Emanuela, Ciniselli, Matteo, Scalabrino, Simone, Oliveto, Rocco, Bavota, Gabriele",https://doi.org/10.1109/ICSE48619.2023.00181
+Learning Deep Semantics for Test Completion,"Nie, Pengyu, Banerjee, Rahul, Li, Junyi Jessy, Mooney, Raymond J., Gligoric, Milos",https://doi.org/10.1109/ICSE48619.2023.00178
+ViolationTracker: Building Precise Histories for Static Analysis Violations,"Yu, Ping, Wu, Yijian, Peng, Xin, Peng, Jiahan, Zhang, Jian, Xie, Peicheng, Zhao, Wenyun",https://doi.org/10.1109/ICSE48619.2023.00171
+Developers' Visuo-Spatial Mental Model and Program Comprehension,"Bouraffa, Abir, Fuhrmann, Gian-Luca, Maalej, Walid",https://doi.org/10.1109/ICSE48619.2023.00163
+Reliability Assurance for Deep Neural Network Architectures against Numerical Defects,"Li, Linyi, Zhang, Yuhao, Ren, Luyao, Xiong, Yingfei, Xie, Tao",https://doi.org/10.1109/ICSE48619.2023.00156
+Fairify: Fairness Verification of Neural Networks,"Biswas, Sumon, Rajan, Hridesh",https://doi.org/10.1109/ICSE48619.2023.00134
+Testability Refactoring in Pull Requests: Patterns and Trends,"Reich, Pavel, Maalej, Walid",https://doi.org/10.1109/ICSE48619.2023.00131
+Faster or Slower? Performance Mystery of Python Idioms Unveiled with Empirical Evidence,"Zhang, Zejun, Xing, Zhenchang, Xia, Xin, Xu, Xiwei, Zhu, Liming, Lu, Qinghua",https://doi.org/10.1109/ICSE48619.2023.00130
+Fuzzing Automatic Differentiation in Deep-Learning Libraries,"Yang, Chenyuan, Deng, Yinlin, Yao, Jiayi, Tu, Yuxing, Li, Hanchi, Zhang, Lingming",https://doi.org/10.1109/ICSE48619.2023.00105
+Detecting Exception Handling Bugs in C++ Programs,"Zhang, Hao, Luo, Ji, Hu, Mengze, Yan, Jun, Zhang, Jian, Qiu, Zongyan",https://doi.org/10.1109/ICSE48619.2023.00098
+Chronos: Time-Aware Zero-Shot Identification of Libraries from Vulnerability Reports,"Lyu, Yunbo, Le-Cong, Thanh, Kang, Hong Jin, Widyasari, Ratnadira, Zhao, Zhipeng, Le, Xuan-Bach D., Li, Ming, Lo, David",https://doi.org/10.1109/ICSE48619.2023.00094
+Efficiency Matters: Speeding Up Automated Testing with GUI Rendering Inference,"Feng, Sidong, Xie, Mulong, Chen, Chunyang",https://doi.org/10.1109/ICSE48619.2023.00084
+How Do Developers' Profiles and Experiences Influence their Logging Practices? An Empirical Study of Industrial Practitioners,"Rong, Guoping, Gu, Shenghui, Shen, Haifeng, Zhang, He, Kuang, Hongyu",https://doi.org/10.1109/ICSE48619.2023.00080
+Revisiting Learning-Based Commit Message Generation,"Dong, Jinhao, Lou, Yiling, Hao, Dan, Tan, Lin",https://doi.org/10.1109/ICSE48619.2023.00075
+Using Reactive Synthesis: An End-to-End Exploratory Case Study,"Ma'ayan, Dor, Maoz, Shahar",https://doi.org/10.1109/ICSE48619.2023.00071
+Concrat: An Automatic C-to-Rust Lock API Translator for Concurrent Programs,"Hong, Jaemin, Ryu, Sukyoung",https://doi.org/10.1109/ICSE48619.2023.00069
+From Organizations to Individuals: Psychoactive Substance Use by Professional Programmers,"Newman, Kaia, Endres, Madeline, Weimer, Westley, Johnson, Brittany",https://doi.org/10.1109/ICSE48619.2023.00065
+ECSTATIC: An Extensible Framework for Testing and Debugging Configurable Static Analysis,"Mordahl, Austin, Zhang, Zenong, Soles, Dakota, Wei, Shiyi",https://doi.org/10.1109/ICSE48619.2023.00056
+Practical and Efficient Model Extraction of Sentiment Analysis APIs,"Wu, Weibin, Zhang, Jianping, Wei, Victor Junqiu, Chen, Xixian, Zheng, Zibin, King, Irwin, Lyu, Michael R.",https://doi.org/10.1109/ICSE48619.2023.00054
+BFTDETECTOR: Automatic Detection of Business Flow Tampering for Digital Content Service,"Kim, I Luk, Wang, Weihang, Kwon, Yonghwi, Zhang, Xiangyu",https://doi.org/10.1109/ICSE48619.2023.00048
+Evaluating and Improving Hybrid Fuzzing,"Jiang, Ling, Yuan, Hengchen, Wu, Mingyuan, Zhang, Lingming, Zhang, Yuqun",https://doi.org/10.1109/ICSE48619.2023.00045
+SmartMark: Software Watermarking Scheme for Smart Contracts,"Kim, Taeyoung, Jang, Yunhee, Lee, Chanjong, Koo, Hyungjoon, Kim, Hyoungshick",https://doi.org/10.1109/ICSE48619.2023.00035
+How Do We Read Formal Claims? Eye-Tracking and the Cognition of Proofs about Algorithms,"Ahmad, Hammad, Karas, Zachary, Diaz, Kimberly, Kamil, Amir, Jeannin, Jean-Baptiste, Weimer, Westley",https://doi.org/10.1109/ICSE48619.2023.00029
+Operand-Variation-Oriented Differential Analysis for Fuzzing Binding Calls in PDF Readers,"Guo, Suyue, Wan, Xinyu, You, Wei, Liang, Bin, Shi, Wenchang, Zhang, Yiwei, Huang, Jianjun, Zhang, Jian",https://doi.org/10.1109/ICSE48619.2023.00020
+One Adapter for All Programming Languages? Adapter Tuning for Code Search and Summarization,"Wang, Deze, Chen, Boxing, Li, Shanshan, Luo, Wei, Peng, Shaoliang, Dong, Wei, Liao, Xiangke",https://doi.org/10.1109/ICSE48619.2023.00013
+Future Software for Life in Trusted Futures,"Pink, Sarah",https://doi.org/10.1109/ICSE48619.2023.00010
+ICSE '23: Proceedings of the 45th International Conference on Software Engineering,,
+Finding Causally Different Tests for an Industrial Control System,"Poskitt, Christopher M., Chen, Yuqi, Sun, Jun, Jiang, Yu",https://doi.org/10.1109/ICSE48619.2023.00215
+Metamorphic Shader Fusion for Testing Graphics Shader Compilers,"Xiao, Dongwei, Liu, Zhibo, Wang, Shuai",https://doi.org/10.1109/ICSE48619.2023.00201
+DUETCS: Code Style Transfer through Generation and Retrieval,"Chen, Binger, Abedjan, Ziawasch",https://doi.org/10.1109/ICSE48619.2023.00198
+On the Reproducibility of Software Defect Datasets,"Zhu, Hao-Nan, Rubio-Gonz\'{a",https://doi.org/10.1109/ICSE48619.2023.00195
+An Empirical Study of Deep Learning Models for Vulnerability Detection,"Steenhoek, Benjamin, Rahman, Md Mahbubur, Jiles, Richard, Le, Wei",https://doi.org/10.1109/ICSE48619.2023.00188
+Safe Low-Level Code without Overhead is Practical,"Pirelli, Solal",https://doi.org/10.1109/ICSE48619.2023.00183
+Two Sides of the Same Coin: Exploiting the Impact of Identifiers in Neural Code Comprehension,"Gao, Shuzheng, Gao, Cuiyun, Wang, Chaozheng, Sun, Jun, Lo, David, Yu, Yue",https://doi.org/10.1109/ICSE48619.2023.00164
+Aries: Efficient Testing of Deep Neural Networks via Labeling-Free Accuracy Estimation,"Hu, Qiang, Guo, Yuejun, Xie, Xiaofei, Cordy, Maxime, Papadakis, Mike, Ma, Lei, Traon, Yves Le",https://doi.org/10.1109/ICSE48619.2023.00152
+Measuring and Mitigating Gaps in Structural Testing,"Hossain, Soneya Binta, Dwyer, Matthew B., Elbaum, Sebastian, Nguyen-Tuong, Anh",https://doi.org/10.1109/ICSE48619.2023.00147
+Keyword Extraction from Specification Documents for Planning Security Mechanisms,"Poozhithara, Jeffy Jahfar, Asuncion, Hazeline U., Lagesse, Brent",https://doi.org/10.1109/ICSE48619.2023.00143
+Leveraging Feature Bias for Scalable Misprediction Explanation of Machine Learning Models,"Gesi, Jiri, Shen, Xinyun, Geng, Yunfan, Chen, Qihong, Ahmed, Iftekhar",https://doi.org/10.1109/ICSE48619.2023.00135
+Usability-Oriented Design of Liquid Types for Java,"Gamboa, Catarina, Canelas, Paulo, Timperley, Christopher, Fonseca, Alcides",https://doi.org/10.1109/ICSE48619.2023.00132
+Tolerate Control-Flow Changes for Sound Data Race Prediction,"Zhu, Shihao, Guo, Yuqi, Zhang, Long, Cai, Yan",https://doi.org/10.1109/ICSE48619.2023.00118
+KNOD: Domain Knowledge Distilled Tree Decoder for Automated Program Repair,"Jiang, Nan, Lutellier, Thibaud, Lou, Yiling, Tan, Lin, Goldwasser, Dan, Zhang, Xiangyu",https://doi.org/10.1109/ICSE48619.2023.00111
+Fine-Grained Commit-Level Vulnerability Type Prediction by CWE Tree Structure,"Pan, Shengyi, Bao, Lingfeng, Xia, Xin, Lo, David, Li, Shanping",https://doi.org/10.1109/ICSE48619.2023.00088
+Moving on from the Software Engineers' Gambit: An Approach to Support the Defense of Software Effort Estimates,"Matsubara, Patricia G. F., Steinmacher, Igor, Gadelha, Bruno, Conte, Tayana",https://doi.org/10.1109/ICSE48619.2023.00068
+RepresentThemAll: A Universal Learning Representation of Bug Reports,"Fang, Sen, Zhang, Tao, Tan, Youshuai, Jiang, He, Xia, Xin, Sun, Xiaobing",https://doi.org/10.1109/ICSE48619.2023.00060
+Responsibility in Context: On Applicability of Slicing in Semantic Regression Analysis,"Badihi, Sahar, Ahmed, Khaled, Li, Yi, Rubin, Julia",https://doi.org/10.1109/ICSE48619.2023.00057
+OSSFP: Precise and Scalable C/C++ Third-Party Library Detection Using Fingerprinting Functions,"Wu, Jiahui, Xu, Zhengzi, Tang, Wei, Zhang, Lyuye, Wu, Yueming, Liu, Chengyue, Sun, Kairan, Zhao, Lida, Liu, Yang",https://doi.org/10.1109/ICSE48619.2023.00034
+RAT: A Refactoring-Aware Traceability Model for Bug Localization,"Niu, Feifei, Assun\c{c",https://doi.org/10.1109/ICSE48619.2023.00028
+CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back,"Liu, Zhongxin, Tang, Zhijie, Xia, Xin, Yang, Xiaohu",https://doi.org/10.1109/ICSE48619.2023.00014
+An Empirical Study on Software Bill of Materials: Where We Stand and the Road Ahead,"Xia, Boming, Bi, Tingting, Xing, Zhenchang, Lu, Qinghua, Zhu, Liming",https://doi.org/10.1109/ICSE48619.2023.00219
+Rules of Engagement: Why and How Companies Participate in OSS,"Guizani, Mariam, Castro-Guzman, Aileen Abril, Sarma, Anita, Steinmacher, Igor",https://doi.org/10.1109/ICSE48619.2023.00218
+VULGEN: Realistic Vulnerability Generation Via Pattern Mining and Deep Learning,"Nong, Yu, Ou, Yuzhe, Pradel, Michael, Chen, Feng, Cai, Haipeng",https://doi.org/10.1109/ICSE48619.2023.00211
+ContraBERT: Enhancing Code Pre-Trained Models via Contrastive Learning,"Liu, Shangqing, Wu, Bozhi, Xie, Xiaofei, Meng, Guozhu, Liu, Yang",https://doi.org/10.1109/ICSE48619.2023.00207
+An Empirical Study of Pre-Trained Model Reuse in the Hugging Face Deep Learning Model Registry,"Jiang, Wenxin, Synovic, Nicholas, Hyatt, Matt, Schorlemmer, Taylor R., Sethi, Rohan, Lu, Yung-Hsiang, Thiruvathukal, George K., Davis, James C.",https://doi.org/10.1109/ICSE48619.2023.00206
+"Read It, Don't Watch It: Captioning Bug Recordings Automatically","Feng, Sidong, Xie, Mulong, Xue, Yinxing, Chen, Chunyang",https://doi.org/10.1109/ICSE48619.2023.00197
+CoCoSoDa: Effective Contrastive Learning for Code Search,"Shi, Ensheng, Wang, Yanlin, Gu, Wenchao, Du, Lun, Zhang, Hongyu, Han, Shi, Zhang, Dongmei, Sun, Hongbin",https://doi.org/10.1109/ICSE48619.2023.00185
+Identifying Key Classes for Initial Software Comprehension: Can We Do it Better?,"Pan, Weifeng, Du, Xin, Ming, Hua, Kim, Dae-Kyoo, Yang, Zijiang",https://doi.org/10.1109/ICSE48619.2023.00160
+"Semi-Automatic, Inline and Collaborative Web Page Code Curations","Rutishauser, Roy, Meyer, Andr\'{e",https://doi.org/10.1109/ICSE48619.2023.00159
+Recommending Root-Cause and Mitigation Steps for Cloud Incidents Using Large Language Models,"Ahmed, Toufique, Ghosh, Supriyo, Bansal, Chetan, Zimmermann, Thomas, Zhang, Xuchao, Rajmohan, Saravan",https://doi.org/10.1109/ICSE48619.2023.00149
+Flexible and Optimal Dependency Management via Max-SMT,"Pinckney, Donald, Cassano, Federico, Guha, Arjun, Bell, Jonathan, Culpo, Massimiliano, Gamblin, Todd",https://doi.org/10.1109/ICSE48619.2023.00124
+GameRTS: A Regression Testing Framework for Video Games,"Yu, Jiongchi, Wu, Yuechen, Xie, Xiaofei, Le, Wei, Ma, Lei, Chen, Yingfeng, Hu, Jingyu, Zhang, Fan",https://doi.org/10.1109/ICSE48619.2023.00122
+AI-Based Question Answering Assistance for Analyzing Natural-Language Requirements,"Ezzini, Saad, Abualhaija, Sallam, Arora, Chetan, Sabetzadeh, Mehrdad",https://doi.org/10.1109/ICSE48619.2023.00113
+Better Automatic Program Repair by Using Bug Reports and Tests Together,"Motwani, Manish, Brun, Yuriy",https://doi.org/10.1109/ICSE48619.2023.00109
+"Code Review of Build System Specifications: Prevalence, Purposes, Patterns, and Perceptions","Nejati, Mahtab, Alfadel, Mahmoud, McIntosh, Shane",https://doi.org/10.1109/ICSE48619.2023.00108
+Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion,"Yuan, Yuanyuan, Pang, Qi, Wang, Shuai",https://doi.org/10.1109/ICSE48619.2023.00107
+Understanding the Threats of Upstream Vulnerabilities to Downstream Projects in the Maven Ecosystem,"Wu, Yulun, Yu, Zeliang, Wen, Ming, Li, Qiang, Zou, Deqing, Jin, Hai",https://doi.org/10.1109/ICSE48619.2023.00095
+PyEvolve: Automating Frequent Code Changes in Python ML Systems,"Dilhara, Malinda, Dig, Danny, Ketkar, Ameya",https://doi.org/10.1109/ICSE48619.2023.00091
+Badge: Prioritizing UI Events with Hierarchical Multi-Armed Bandits for Automated UI Testing,"Ran, Dezhi, Wang, Hao, Wang, Wenyu, Xie, Tao",https://doi.org/10.1109/ICSE48619.2023.00083
+On the Self-Governance and Episodic Changes in Apache Incubator Projects: An Empirical Study,"Yin, Likang, Zhang, Xiyu, Filkov, Vladimir",https://doi.org/10.1109/ICSE48619.2023.00066
+Demystifying Exploitable Bugs in Smart Contracts,"Zhang, Zhuo, Zhang, Brian, Xu, Wen, Lin, Zhiqiang",https://doi.org/10.1109/ICSE48619.2023.00061
+FedDebug: Systematic Debugging for Federated Learning Applications,"Gill, Waris, Anwar, Ali, Gulzar, Muhammad Ali",https://doi.org/10.1109/ICSE48619.2023.00053
+AdHere: Automated Detection and Repair of Intrusive Ads,"Yan, Yutian, Zheng, Yunhui, Liu, Xinyue, Medvidovic, Nenad, Wang, Weihang",https://doi.org/10.1109/ICSE48619.2023.00051
+BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts,"Zheng, Peilin, Luo, Xiapu, Zheng, Zibin",https://doi.org/10.1109/ICSE48619.2023.00037
+Evaluating the Impact of Experimental Assumptions in Automated Fault Localization,"Soremekun, Ezekiel, Kirschner, Lukas, B\""{o",https://doi.org/10.1109/ICSE48619.2023.00025
+Regression Fuzzing for Deep Learning Systems,"You, Hanmo, Wang, Zan, Chen, Junjie, Liu, Shuang, Li, Shuochuan",https://doi.org/10.1109/ICSE48619.2023.00019
+JITfuzz: Coverage-Guided Fuzzing for JVM Just-in-Time Compilers,"Wu, Mingyuan, Lu, Minghai, Cui, Heming, Chen, Junjie, Zhang, Yuqun, Zhang, Lingming",https://doi.org/10.1109/ICSE48619.2023.00017
+Generating Realistic and Diverse Tests for LiDAR-Based Perception Systems,"Christian, Garrett, Woodlief, Trey, Elbaum, Sebastian",https://doi.org/10.1109/ICSE48619.2023.00217
+(Partial) Program Dependence Learning,"Yadavally, Aashish, Nguyen, Tien N., Wang, Wenbo, Wang, Shaohua",https://doi.org/10.1109/ICSE48619.2023.00209
+DeepVD: Toward Class-Separation Features for Neural Network Vulnerability Detection,"Wang, Wenbo, Nguyen, Tien N., Wang, Shaohua, Li, Yi, Zhang, Jiyuan, Yadavally, Aashish",https://doi.org/10.1109/ICSE48619.2023.00189
+Generating Test Databases for Database-Backed Applications,"Yan, Cong, Nath, Suman, Lu, Shan",https://doi.org/10.1109/ICSE48619.2023.00173
+Compiler Test-Program Generation via Memoized Configuration Search,"Chen, Junjie, Suo, Chenyao, Jiang, Jiajun, Chen, Peiqi, Li, Xingjian",https://doi.org/10.1109/ICSE48619.2023.00172
+AidUI: Toward Automated Recognition of Dark Patterns in User Interfaces,"Mansur, S M Hasan, Salma, Sabiha, Awofisayo, Damilola, Moran, Kevin",https://doi.org/10.1109/ICSE48619.2023.00166
+SeeHow: Workflow Extraction from Programming Screencasts through Action-Aware Video Analytics,"Zhao, Dehai, Xing, Zhenchang, Xia, Xin, Ye, Deheng, Xu, Xiwei, Zhu, Liming",https://doi.org/10.1109/ICSE48619.2023.00165
+"Demystifying Issues, Challenges, and Solutions for Multilingual Software Development","Yang, Haoran, Lian, Weile, Wang, Shaowei, Cai, Haipeng",https://doi.org/10.1109/ICSE48619.2023.00157
+Many-Objective Reinforcement Learning for Online Testing of DNN-Enabled Systems,"Haq, Fitash Ul, Shin, Donghwan, Briand, Lionel C.",https://doi.org/10.1109/ICSE48619.2023.00155
+Heterogeneous Anomaly Detection for Software Systems via Semi-Supervised Cross-Modal Attention,"Lee, Cheryl, Yang, Tianyi, Chen, Zhuangbin, Su, Yuxin, Yang, Yongqiang, Lyu, Michael R.",https://doi.org/10.1109/ICSE48619.2023.00148
+ATM: Black-Box Test Case Minimization Based on Test Code Similarity and Evolutionary Search,"Pan, Rongqi, Ghaleb, Taher A., Briand, Lionel",https://doi.org/10.1109/ICSE48619.2023.00146
+Measuring Secure Coding Practice and Culture: A Finger Pointing at the Moon is Not the Moon,"Ryan, Ita, Roedig, Utz, Stol, Klaas-Jan",https://doi.org/10.1109/ICSE48619.2023.00140
+Automated Repair of Programs from Large Language Models,"Fan, Zhiyu, Gao, Xiang, Mirchev, Martin, Roychoudhury, Abhik, Tan, Shin Hwei",https://doi.org/10.1109/ICSE48619.2023.00128
+Detecting Dialog-Related Keyboard Navigation Failures in Web Applications,"Chiou, Paul T., Alotaibi, Ali S., Halfond, William G. J.",https://doi.org/10.1109/ICSE48619.2023.00120
+Compiling Parallel Symbolic Execution with Continuations,"Wei, Guannan, Jia, Songlin, Gao, Ruiqi, Deng, Haotian, Tan, Shangyin, Bra\v{c",https://doi.org/10.1109/ICSE48619.2023.00116
+Data-Driven Recurrent Set Learning for Non-termination Analysis,"Han, Zhilei, He, Fei",https://doi.org/10.1109/ICSE48619.2023.00115
+SecBench.js: An Executable Security Benchmark Suite for Server-Side JavaScript,"Bhuiyan, Masudul Hasan Masud, Parthasarathy, Adithya Srinivas, Vasilakis, Nikos, Pradel, Michael, Staicu, Cristian-Alexandru",https://doi.org/10.1109/ICSE48619.2023.00096
+Reusing Deep Neural Network Models through Model Re-Engineering,"Qi, Binhang, Sun, Hailong, Gao, Xiang, Zhang, Hongyu, Li, Zhaotian, Liu, Xudong",https://doi.org/10.1109/ICSE48619.2023.00090
+SemParser: A Semantic Parser for Log Analytics,"Huo, Yintong, Su, Yuxin, Lee, Cheryl, Lyu, Michael R.",https://doi.org/10.1109/ICSE48619.2023.00082
+Commit Message Matters: Investigating Impact and Evolution of Commit Message Quality,"Li, Jiawei, Ahmed, Iftekhar",https://doi.org/10.1109/ICSE48619.2023.00076
+Fonte: Finding Bug Inducing Commits from Failures,"An, Gabin, Hong, Jingun, Kim, Naryeong, Yoo, Shin",https://doi.org/10.1109/ICSE48619.2023.00059
+PTPDroid: Detecting Violated User Privacy Disclosures to Third-Parties of Android Apps,"Tan, Zeya, Song, Wei",https://doi.org/10.1109/ICSE48619.2023.00050
+Robustification of Behavioral Designs against Environmental Deviations,"Zhang, Changjian, Saluja, Tarang, Meira-G\'{o",https://doi.org/10.1109/ICSE48619.2023.00046
+Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum,"Zheng, Zibin, Zhang, Neng, Su, Jianzhong, Zhong, Zhijie, Ye, Mingxi, Chen, Jiachi",https://doi.org/10.1109/ICSE48619.2023.00036
+PExReport: Automatic Creation of Pruned Executable Cross-Project Failure Reports,"Huang, Sunzhou, Wang, Xiaoyin",https://doi.org/10.1109/ICSE48619.2023.00027
+Data Quality for Software Vulnerability Datasets,"Croft, Roland, Babar, M. Ali, Kholoosi, M. Mehdi",https://doi.org/10.1109/ICSE48619.2023.00022
+Validating SMT Solvers via Skeleton Enumeration Empowered by Historical Bug-Triggering Inputs,"Sun, Maolin, Yang, Yibiao, Wen, Ming, Wang, Yongcong, Zhou, Yuming, Jin, Hai",https://doi.org/10.1109/ICSE48619.2023.00018
+Automating Code-Related Tasks Through Transformers: The Impact of Pre-Training,"Tufano, Rosalia, Pascarella, Luca, Bavota, Gabriele",https://doi.org/10.1109/ICSE48619.2023.00203
+MTTM: Metamorphic Testing for Textual Content Moderation Software,"Wang, Wenxuan, Huang, Jen-tse, Wu, Weibin, Zhang, Jianping, Huang, Yizhan, Li, Shuqing, He, Pinjia, Lyu, Michael R.",https://doi.org/10.1109/ICSE48619.2023.00200
+Incident-Aware Duplicate Ticket Aggregation for Cloud Systems,"Liu, Jinyang, He, Shilin, Chen, Zhuangbin, Li, Liqun, Kang, Yu, Zhang, Xu, He, Pinjia, Zhang, Hongyu, Lin, Qingwei, Xu, Zhangwei, Rajmohan, Saravan, Zhang, Dongmei, Lyu, Michael R.",https://doi.org/10.1109/ICSE48619.2023.00193
+An Empirical Comparison of Pre-Trained Models of Source Code,"Niu, Changan, Li, Chuanyi, Ng, Vincent, Chen, Dongxiao, Ge, Jidong, Luo, Bin",https://doi.org/10.1109/ICSE48619.2023.00180
+SKCODER: A Sketch-Based Approach for Automatic Code Generation,"Li, Jia, Li, Yongmin, Li, Ge, Jin, Zhi, Hao, Yiyang, Hu, Xing",https://doi.org/10.1109/ICSE48619.2023.00179
+Analyzing the Impact of Workloads on Modeling the Performance of Configurable Software Systems,"M\""{u",https://doi.org/10.1109/ICSE48619.2023.00176
+Testing Database Engines via Query Plan Guidance,"Ba, Jinsheng, Rigger, Manuel",https://doi.org/10.1109/ICSE48619.2023.00174
+Sustainability is Stratified: Toward a Better Theory of Sustainable Software Engineering,"McGuire, Sean, Schultz, Erin, Ayoola, Bimpe, Ralph, Paul",https://doi.org/10.1109/ICSE48619.2023.00169
+Improving API Knowledge Discovery with ML: A Case Study of Comparable API Methods,"Nam, Daye, Myers, Brad, Vasilescu, Bogdan, Hellendoorn, Vincent",https://doi.org/10.1109/ICSE48619.2023.00161
+Automated Summarization of Stack Overflow Posts,"Kou, Bonan, Chen, Muhao, Zhang, Tianyi",https://doi.org/10.1109/ICSE48619.2023.00158
+LogReducer: Identify and Reduce Log Hotspots in Kernel on the Fly,"Yu, Guangba, Chen, Pengfei, Li, Pairui, Weng, Tianjun, Zheng, Haibing, Deng, Yuetang, Zheng, Zibin",https://doi.org/10.1109/ICSE48619.2023.00151
+Test Selection for Unified Regression Testing,"Wang, Shuai, Lian, Xinyu, Marinov, Darko, Xu, Tianyin",https://doi.org/10.1109/ICSE48619.2023.00145
+Dependency Facade: The Coupling and Conflicts between Android Framework and Its Customization,"Jin, Wuxia, Dai, Yitong, Zheng, Jianguo, Qu, Yu, Fan, Ming, Huang, Zhenyu, Huang, Dezhi, Liu, Ting",https://doi.org/10.1109/ICSE48619.2023.00144
+Lejacon: A Lightweight and Efficient Approach to Java Confidential Computing on SGX,"Miao, Xinyuan, Lin, Ziyi, Wang, Shaojun, Yu, Lei, Li, Sanhong, Wang, Zihan, Nie, Pengbo, Chen, Yuting, Shen, Beijun, Jiang, He",https://doi.org/10.1109/ICSE48619.2023.00142
+Demystifying Privacy Policy of Third-Party Libraries in Mobile Apps,"Zhao, Kaifa, Zhan, Xian, Yu, Le, Zhou, Shiyao, Zhou, Hao, Luo, Xiapu, Wang, Haoyu, Liu, Yepang",https://doi.org/10.1109/ICSE48619.2023.00137
+Towards Understanding Fairness and its Composition in Ensemble Machine Learning,"Gohar, Usman, Biswas, Sumon, Rajan, Hridesh",https://doi.org/10.1109/ICSE48619.2023.00133
+Automated Program Repair in the Era of Large Pre-Trained Language Models,"Xia, Chunqiu Steven, Wei, Yuxiang, Zhang, Lingming",https://doi.org/10.1109/ICSE48619.2023.00129
+Template-Based Neural Program Repair,"Meng, Xiangxin, Wang, Xu, Zhang, Hongyu, Sun, Hailong, Liu, Xudong, Hu, Chunming",https://doi.org/10.1109/ICSE48619.2023.00127
+Impact of Code Language Models on Automated Program Repair,"Jiang, Nan, Liu, Kevin, Lutellier, Thibaud, Tan, Lin",https://doi.org/10.1109/ICSE48619.2023.00125
+Fill in the Blank: Context-Aware Automated Text Input Generation for Mobile GUI Testing,"Liu, Zhe, Chen, Chunyang, Wang, Junjie, Che, Xing, Huang, Yuekai, Hu, Jun, Wang, Qing",https://doi.org/10.1109/ICSE48619.2023.00119
+"Strategies, Benefits and Challenges of App Store-Inspired Requirements Elicitation","Ferrari, Alessio, Spoletini, Paola",https://doi.org/10.1109/ICSE48619.2023.00114
+Learning to Boost Disjunctive Static Bug-Finders,"Ko, Yoonseok, Oh, Hakjoo",https://doi.org/10.1109/ICSE48619.2023.00099
+On Privacy Weaknesses and Vulnerabilities in Software Systems,"Sangaroonsilp, Pattaraporn, Dam, Hoa Khanh, Ghose, Aditya",https://doi.org/10.1109/ICSE48619.2023.00097
+On the Temporal Relations between Logging and Code,"Ding, Zishuo, Tang, Yiming, Li, Yang, Li, Heng, Shang, Weiyi",https://doi.org/10.1109/ICSE48619.2023.00079
+PILAR: Studying and Mitigating the Influence of Configurations on Log Parsing,"Dai, Hetong, Tang, Yiming, Li, Heng, Shang, Weiyi",https://doi.org/10.1109/ICSE48619.2023.00077
+Does the Stream API Benefit from Special Debugging Facilities? A Controlled Experiment on Loops and Streams with Specific Debuggers,"Reichl, Jan, Hanenberg, Stefan, Gruhn, Volker",https://doi.org/10.1109/ICSE48619.2023.00058
+Bad Snakes: Understanding and Improving Python Package Index Malware Scanning,"Vu, Duc-Ly, Newman, Zachary, Meyers, John Speed",https://doi.org/10.1109/ICSE48619.2023.00052
+Software Engineering as the Linchpin of Responsible AI,"Zhu, Liming",https://doi.org/10.1109/ICSE48619.2023.00012
+Compatible Remediation on Vulnerabilities from Third-Party Libraries for Java Projects,"Zhang, Lyuye, Liu, Chengwei, Xu, Zhengzi, Chen, Sen, Fan, Lingling, Zhao, Lida, Wu, Jiahui, Liu, Yang",https://doi.org/10.1109/ICSE48619.2023.00212
+Testing Database Systems via Differential Query Execution,"Song, Jiansen, Dou, Wensheng, Cui, Ziyu, Dai, Qianwang, Wang, Wei, Wei, Jun, Zhong, Hua, Huang, Tao",https://doi.org/10.1109/ICSE48619.2023.00175
+Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-Source Data,"Lee, Cheryl, Yang, Tianyi, Chen, Zhuangbin, Su, Yuxin, Lyu, Michael R.",https://doi.org/10.1109/ICSE48619.2023.00150
+On-Demand Security Requirements Synthesis with Relational Generative Adversarial Networks,"Koscinski, Viktoria, Hashemi, Sara, Mirakhorli, Mehdi",https://doi.org/10.1109/ICSE48619.2023.00139
+Verifying Data Constraint Equivalence in FinTech Systems,"Wang, Chengpeng, Fan, Gang, Yao, Peisen, Pan, Fuxiong, Zhang, Charles",https://doi.org/10.1109/ICSE48619.2023.00117
+CCTest: Testing and Repairing Code Completion Systems,"Li, Zongjie, Wang, Chaozheng, Liu, Zhibo, Wang, Haoxuan, Chen, Dong, Wang, Shuai, Gao, Cuiyun",https://doi.org/10.1109/ICSE48619.2023.00110
+Lightweight Approaches to DNN Regression Error Reduction: An Uncertainty Alignment Perspective,"Li, Zenan, Zhang, Maorun, Xu, Jingwei, Yao, Yuan, Cao, Chun, Chen, Taolue, Ma, Xiaoxing, L\""{u",https://doi.org/10.1109/ICSE48619.2023.00106
+AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities,"Ghaleb, Asem, Rubin, Julia, Pattabiraman, Karthik",https://doi.org/10.1109/ICSE48619.2023.00087
+TaintMini: Detecting Flow of Sensitive Data in Mini-Programs with Static Taint Analysis,"Wang, Chao, Ko, Ronny, Zhang, Yue, Yang, Yuqing, Lin, Zhiqiang",https://doi.org/10.1109/ICSE48619.2023.00086
+When to Say What: Learning to Find Condition-Message Inconsistencies,"Bouzenia, Islem, Pradel, Michael",https://doi.org/10.1109/ICSE48619.2023.00081
+Developer-Intent Driven Code Comment Generation,"Mu, Fangwen, Chen, Xiao, Shi, Lin, Wang, Song, Wang, Qing",https://doi.org/10.1109/ICSE48619.2023.00073
+Is it Enough to Recommend Tasks to Newcomers? Understanding Mentoring on Good First Issues,"Tan, Xin, Chen, Yiran, Wu, Haohua, Zhou, Minghui, Zhang, Li",https://doi.org/10.1109/ICSE48619.2023.00064
+A Qualitative Study on the Implementation Design Decisions of Developers,"Liang, Jenny T., Arab, Maryam, Ko, Minhyuk, Ko, Amy J., LaToza, Thomas D.",https://doi.org/10.1109/ICSE48619.2023.00047
+The Smelly Eight: An Empirical Study on the Prevalence of Code Smells in Quantum Computing,"Chen, Qihong, C\^{a",https://doi.org/10.1109/ICSE48619.2023.00041
+Comparison and Evaluation of Clone Detection Techniques with Different Code Representations,"Wang, Yuekun, Ye, Yuhang, Wu, Yueming, Zhang, Weiwei, Xue, Yinxing, Liu, Yang",https://doi.org/10.1109/ICSE48619.2023.00039
+Do I Belong? Modeling Sense of Virtual Community Among Linux Kernel Contributors,"Trinkenreich, Bianca, Stol, Klaas-Jan, Sarma, Anita, German, Daniel M., Gerosa, Marco A., Steinmacher, Igor",https://doi.org/10.1109/ICSE48619.2023.00038
+Compatibility Issue Detection for Android Apps Based on Path-Sensitive Semantic Analysis,"Yang, Sen, Chen, Sen, Fan, Lingling, Xu, Sihan, Hui, Zhanwei, Huang, Song",https://doi.org/10.1109/ICSE48619.2023.00033
+APICad: Augmenting API Misuse Detection through Specifications from Code and Documents,"Wang, Xiaoke, Zhao, Lei",https://doi.org/10.1109/ICSE48619.2023.00032
+Which of My Assumptions are Unnecessary for Realizability and Why Should I Care?,"Shalom, Rafi, Maoz, Shahar",https://doi.org/10.1109/ICSE48619.2023.00030
+Locating Framework-Specific Crashing Faults with Compact and Explainable Candidate Set,"Yan, Jiwei, Wang, Miaomiao, Liu, Yepang, Yan, Jun, Zhang, Long",https://doi.org/10.1109/ICSE48619.2023.00026
+A Comprehensive Study of Real-World Bugs in Machine Learning Model Optimization,"Guan, Hao, Xiao, Ying, Li, Jiaying, Liu, Yepang, Bai, Guangdong",https://doi.org/10.1109/ICSE48619.2023.00024
+The Untold Story of Code Refactoring Customizations in Practice,"Oliveira, Daniel, Assun\c{c",https://doi.org/10.1109/ICSE48619.2023.00021
+The Road Toward Dependable AI Based Systems,"Tonella, Paolo",https://doi.org/10.1109/ICSE48619.2023.00011
+"Doppelg\""{a","Huai, Yuqi, Chen, Yuntianyi, Almanee, Sumaya, Ngo, Tuan, Liao, Xiang, Wan, Ziwen, Chen, Qi Alfred, Garcia, Joshua",https://doi.org/10.1109/ICSE48619.2023.00216
+MirrorTaint: Practical Non-Intrusive Dynamic Taint Tracking for JVM-Based Microservice Systems,"Ouyang, Yicheng, Shao, Kailai, Chen, Kunqiu, Shen, Ruobing, Chen, Chao, Xu, Mingze, Zhang, Yuqun, Zhang, Lingming",https://doi.org/10.1109/ICSE48619.2023.00210
+DStream: A Streaming-Based Highly Parallel IFDS Framework,"Wang, Xizao, Zuo, Zhiqiang, Bu, Lei, Zhao, Jianhua",https://doi.org/10.1109/ICSE48619.2023.00208
+MorphQ: Metamorphic Testing of the Qiskit Quantum Computing Platform,"Paltenghi, Matteo, Pradel, Michael",https://doi.org/10.1109/ICSE48619.2023.00202
+Large Language Models are Few-Shot Testers: Exploring LLM-Based General Bug Reproduction,"Kang, Sungmin, Yoon, Juyeon, Yoo, Shin",https://doi.org/10.1109/ICSE48619.2023.00194
+Enhancing Deep Learning-Based Vulnerability Detection by Building Behavior Graph Model,"Yuan, Bin, Lu, Yifan, Fang, Yilin, Wu, Yueming, Zou, Deqing, Li, Zhen, Li, Zhi, Jin, Hai",https://doi.org/10.1109/ICSE48619.2023.00190
+Coverage Guided Fault Injection for Cloud Systems,"Gao, Yu, Dou, Wensheng, Wang, Dong, Feng, Wenhan, Wei, Jun, Zhong, Hua, Huang, Tao",https://doi.org/10.1109/ICSE48619.2023.00186
+Source Code Recommender Systems: The Practitioners' Perspective,"Ciniselli, Matteo, Pascarella, Luca, Aghajani, Emad, Scalabrino, Simone, Oliveto, Rocco, Bavota, Gabriele",https://doi.org/10.1109/ICSE48619.2023.00182
+Twins or False Friends? A Study on Energy Consumption and Performance of Configurable Software,"Weber, Max, Kaltenecker, Christian, Sattler, Florian, Apel, Sven, Siegmund, Norbert",https://doi.org/10.1109/ICSE48619.2023.00177
+Balancing Effectiveness and Flakiness of Non-Deterministic Machine Learning Tests,"Xia, Chunqiu Steven, Dutta, Saikat, Misailovic, Sasa, Marinov, Darko, Zhang, Lingming",https://doi.org/10.1109/ICSE48619.2023.00154
+Information-Theoretic Testing and Debugging of Fairness Defects in Deep Neural Networks,"Monjezi, Verya, Trivedi, Ashutosh, Tan, Gang, Tizpaz-Niari, Saeid",https://doi.org/10.1109/ICSE48619.2023.00136
+Autonomy Is an Acquired Taste: Exploring Developer Preferences for GitHub Bots,"Ghorbani, Amir, Cassee, Nathan, Robinson, Derek, Alami, Adam, Ernst, Neil A., Serebrenik, Alexander, W\k{a",https://doi.org/10.1109/ICSE48619.2023.00123
+"""STILL AROUND"": Experiences and Survival Strategies of Veteran Women Software Developers","van Breukelen, Sterre, Barcomb, Ann, Baltes, Sebastian, Serebrenik, Alexander",https://doi.org/10.1109/ICSE48619.2023.00103
+Detecting Isolation Bugs via Transaction Oracle Construction,"Dou, Wensheng, Cui, Ziyu, Dai, Qianwang, Song, Jiansen, Wang, Dong, Gao, Yu, Wang, Wei, Wei, Jun, Chen, Lei, Wang, Hanmo, Zhong, Hua, Huang, Tao",https://doi.org/10.1109/ICSE48619.2023.00101
+Decomposing a Recurrent Neural Network into Modules for Enabling Reusability and Replacement,"Imtiaz, Sayem Mohammad, Batole, Fraol, Singh, Astha, Pan, Rangeet, Cruz, Breno Dantas, Rajan, Hridesh",https://doi.org/10.1109/ICSE48619.2023.00093
+Silent Vulnerable Dependency Alert Prediction with Vulnerability Key Aspect Explanation,"Sun, Jiamou, Xing, Zhenchang, Lu, Qinghua, Xu, Xiwei, Zhu, Liming, Hoang, Thong, Zhao, Dehai",https://doi.org/10.1109/ICSE48619.2023.00089
+CodaMosa: Escaping Coverage Plateaus in Test Generation with Pre-Trained Large Language Models,"Lemieux, Caroline, Inala, Jeevana Priya, Lahiri, Shuvendu K., Sen, Siddhartha",https://doi.org/10.1109/ICSE48619.2023.00085
+Did We Miss Something Important? Studying and Exploring Variable-Aware Log Abstraction,"Li, Zhenhao, Luo, Chuan, Chen, Tse-Hsun (Peter), Shang, Weiyi, He, Shilin, Lin, Qingwei, Zhang, Dongmei",https://doi.org/10.1109/ICSE48619.2023.00078
+Data Quality Matters: A Case Study of Obsolete Comment Detection,"Xu, Shengbin, Yao, Yuan, Xu, Feng, Gu, Tianxiao, Xu, Jingwei, Ma, Xiaoxing",https://doi.org/10.1109/ICSE48619.2023.00074
+Syntax and Domain Aware Model for Unsupervised Program Translation,"Liu, Fang, Li, Jia, Zhang, Li",https://doi.org/10.1109/ICSE48619.2023.00072
+Explaining Software Bugs Leveraging Code Structures in Neural Machine Translation,"Mahbub, Parvez, Shuvo, Ohiduzzaman, Rahman, Mohammad Masudur",https://doi.org/10.1109/ICSE48619.2023.00063
+CrossCodeBench: Benchmarking Cross-Task Generalization of Source Code Models,"Niu, Changan, Li, Chuanyi, Ng, Vincent, Luo, Bin",https://doi.org/10.1109/ICSE48619.2023.00055
+Learning Seed-Adaptive Mutation Strategies for Greybox Fuzzing,"Lee, Myungho, Cha, Sooyoung, Oh, Hakjoo",https://doi.org/10.1109/ICSE48619.2023.00043
+Learning Graph-Based Code Representations for Source-Level Functional Similarity Detection,"Liu, Jiahao, Zeng, Jun, Wang, Xiang, Liang, Zhenkai",https://doi.org/10.1109/ICSE48619.2023.00040
+Detecting JVM JIT Compiler Bugs via Exploring Two-Dimensional Input Spaces,"Jia, Haoxiang, Wen, Ming, Xie, Zifan, Guo, Xiaochen, Wu, Rongxin, Sun, Maolin, Chen, Kang, Jin, Hai",https://doi.org/10.1109/ICSE48619.2023.00016
+Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models,"Gao, Shuzheng, Zhang, Hongyu, Gao, Cuiyun, Wang, Chaozheng",https://doi.org/10.1109/ICSE48619.2023.00015
+CoLeFunDa: Explainable Silent Vulnerability Fix Identification,"Zhou, Jiayuan, Pacheco, Michael, Chen, Jinfu, Hu, Xing, Xia, Xin, Lo, David, Hassan, Ahmed E.",https://doi.org/10.1109/ICSE48619.2023.00214
+Automated Black-Box Testing of Mass Assignment Vulnerabilities in RESTful APIs,"Corradini, Davide, Pasqua, Michele, Ceccato, Mariano",https://doi.org/10.1109/ICSE48619.2023.00213
+Retrieval-Based Prompt Selection for Code-Related Few-Shot Learning,"Nashid, Noor, Sintaha, Mifta, Mesbah, Ali",https://doi.org/10.1109/ICSE48619.2023.00205
+On the Applicability of Language Models to Block-Based Programs,"Griebl, Elisabeth, Fein, Benedikt, Oberm\""{u",https://doi.org/10.1109/ICSE48619.2023.00199
+Does Data Sampling Improve Deep Learning-Based Vulnerability Detection? Yeas! and Nays!,"Yang, Xu, Wang, Shaowei, Li, Yi, Wang, Shaohua",https://doi.org/10.1109/ICSE48619.2023.00192
+Sibyl: Improving Software Engineering Tools with SMT Selection,"Leeson, Will, Dwyer, Matthew B, Filieri, Antonio",https://doi.org/10.1109/ICSE48619.2023.00184
+DLInfer: Deep Learning with Static Slicing for Python Type Inference,"Yan, Yanyan, Feng, Yang, Fan, Hongcheng, Xu, Baowen",https://doi.org/10.1109/ICSE48619.2023.00170
+Ex Pede Herculem: Augmenting Activity Transition Graph for Apps via Graph Convolution Network,"Liu, Zhe, Chen, Chunyang, Wang, Junjie, Su, Yuhui, Huang, Yuekai, Hu, Jun, Wang, Qing",https://doi.org/10.1109/ICSE48619.2023.00168
+Carving UI Tests to Generate API Tests and API Specification,"Yandrapally, Rahulkrishna, Sinha, Saurabh, Tzoref-Brill, Rachel, Mesbah, Ali",https://doi.org/10.1109/ICSE48619.2023.00167
+Evidence Profiles for Validity Threats in Program Comprehension Experiments,Bar\'{o,https://doi.org/10.1109/ICSE48619.2023.00162
+CC: Causality-Aware Coverage Criterion for Deep Neural Networks,"Ji, Zhenlan, Ma, Pingchuan, Yuan, Yuanyuan, Wang, Shuai",https://doi.org/10.1109/ICSE48619.2023.00153
+What Challenges Do Developers Face about Checked-in Secrets in Software Artifacts?,"Basak, Setu Kumar, Neil, Lorenzo, Reaves, Bradley, Williams, Laurie",https://doi.org/10.1109/ICSE48619.2023.00141
+Cross-Domain Requirements Linking via Adversarial-Based Domain Adaptation,"Chang, Zhiyuan, Li, Mingyang, Wang, Qing, Li, Shoubin, Wang, Junjie",https://doi.org/10.1109/ICSE48619.2023.00138
+Tare: Type-Aware Neural Program Repair,"Zhu, Qihao, Sun, Zeyu, Zhang, Wenjie, Xiong, Yingfei, Zhang, Lu",https://doi.org/10.1109/ICSE48619.2023.00126
+Columbus: Android App Testing through Systematic Callback Exploration,"Bose, Priyanka, Das, Dipanjan, Vasan, Saastha, Mariani, Sebastiano, Grishchenko, Ilya, Continella, Andrea, Bianchi, Antonio, Kruegel, Christopher, Vigna, Giovanni",https://doi.org/10.1109/ICSE48619.2023.00121
+Rete: Learning Namespace Representation for Program Repair,"Parasaram, Nikhil, Barr, Earl T., Mechtaev, Sergey",https://doi.org/10.1109/ICSE48619.2023.00112
+When and Why Test Generators for Deep Learning Produce Invalid Inputs: An Empirical Study,"Riccio, Vincenzo, Tonella, Paolo",https://doi.org/10.1109/ICSE48619.2023.00104
+SmallRace: Static Race Detection for Dynamic Languages - A Case on Smalltalk,"Cui, Siwei, Gao, Yifei, Unterguggenberger, Rainer, Pichler, Wilfried, Livingstone, Sean, Huang, Jeff",https://doi.org/10.1109/ICSE48619.2023.00102
+Predicting Bugs by Monitoring Developers during Task Execution,"Laudato, Gennaro, Scalabrino, Simone, Novielli, Nicole, Lanubile, Filippo, Oliveto, Rocco",https://doi.org/10.1109/ICSE48619.2023.00100
+DeepArc: Modularizing Neural Networks for the Model Maintenance,"Ren, Xiaoning, Lin, Yun, Xue, Yinxing, Liu, Ruofan, Sun, Jun, Feng, Zhiyong, Dong, Jin Song",https://doi.org/10.1109/ICSE48619.2023.00092
+Triggers for Reactive Synthesis Specifications,"Amram, Gal, Ma'ayan, Dor, Maoz, Shahar, Pistiner, Or, Ringert, Jan Oliver",https://doi.org/10.1109/ICSE48619.2023.00070
+Socio-Technical Anti-Patterns in Building ML-Enabled Software: Insights from Leaders on the Forefront,"Mailach, Alina, Siegmund, Norbert",https://doi.org/10.1109/ICSE48619.2023.00067
+Understanding and Detecting On-the-Fly Configuration Bugs,"Wang, Teng, Jia, Zhouyang, Li, Shanshan, Zheng, Si, Yu, Yue, Xu, Erci, Peng, Shaoliang, Liao, Xiangke",https://doi.org/10.1109/ICSE48619.2023.00062
+FedSlice: Protecting Federated Learning Models from Malicious Participants with Model Slicing,"Zhang, Ziqi, Li, Yuanchun, Liu, Bingyan, Cai, Yifeng, Li, Ding, Guo, Yao, Chen, Xiangqun",https://doi.org/10.1109/ICSE48619.2023.00049
+Improving Java Deserialization Gadget Chain Mining via Overriding-Guided Object Generation,"Cao, Sicong, Sun, Xiaobing, Wu, Xiaoxue, Bo, Lili, Li, Bin, Wu, Rongxin, Liu, Wei, He, Biao, Ouyang, Yu, Li, Jiajia",https://doi.org/10.1109/ICSE48619.2023.00044
+Reachable Coverage: Estimating Saturation in Fuzzing,"Liyanage, Danushka, B\""{o",https://doi.org/10.1109/ICSE48619.2023.00042
+UpCy: Safely Updating Outdated Dependencies,"Dann, Andreas, Hermann, Ben, Bodden, Eric",https://doi.org/10.1109/ICSE48619.2023.00031
+Do Code Refactorings Influence the Merge Effort?,"Oliveira, Andr\'{e",https://doi.org/10.1109/ICSE48619.2023.00023
