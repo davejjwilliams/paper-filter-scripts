@@ -10,7 +10,7 @@ To run the scripts, you need to install the required dependencies:
 pip install -r requirements.txt
 ```
 
-## Script 1: Researchr Scraper
+## [`scraper.py`](scraper.py): Researchr Website Scraper
 
 This script fetches all the papers from the . It takes two args as inputs: the link to the technical track website and the year (used for the output filename).
 
@@ -30,7 +30,7 @@ python scraper.py https://conf.researchr.org/track/icse-2024/icse-2024-research-
 python scraper.py https://conf.researchr.org/track/icse-2025/icse-2025-research-track?#event-overview 2025
 ```
 
-## Script 2: Processing BIB files from ACM Advanced Search
+## [`bib-converter.py`](bib-converter.py): Processing BIB files from ACM Advanced Search
 
 This script takes as input the path to a .bib file generated from exporting the results in of an ACM Advanced Search, and produces a CSV.
 
