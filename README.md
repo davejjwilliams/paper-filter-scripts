@@ -66,3 +66,7 @@ python bib-converter.py --icse 2024 ICSE2024_papers.csv
 ```
 
 All outputs are stored in [`/results/bib/`](/results/bib/).
+
+## Analysis
+
+Basic analysis of the papers for ICSE 2023/2024 is provided in [`analysis.ipynb`](analysis.ipynb).
