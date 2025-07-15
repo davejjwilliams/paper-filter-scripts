@@ -53,13 +53,20 @@ def parse_bibtex_file(bib_file_path, output_csv_path):
         else:
             paper_data['url'] = ''
         
+        # Extract Abstract
+        abs_match = re.search(r'abstract\s*=\s*\{([^}]+)\}', entry, re.IGNORECASE)
+        if abs_match:
+            paper_data['abstract'] = abs_match.group(1).strip()
+        else:
+            paper_data['abstract'] = ''
+        
         # Only add papers that have at least a title
         if paper_data['title']:
             papers.append(paper_data)
     
     # Write to CSV
     with open(output_csv_path, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['title', 'authors', 'url']
+        fieldnames = ['title', 'authors', 'url', 'abstract']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         
         writer.writeheader()
