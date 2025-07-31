@@ -164,6 +164,7 @@ def parse_icse_year(year, output_csv_path):
     available_titles = extract_titles_from_bib(os.path.join(year_dir, f"{year}ICSE_Artifact_Available.bib"))
     reusable_titles = extract_titles_from_bib(os.path.join(year_dir, f"{year}ICSE_Artifact_Reusable.bib"))
     functional_titles = extract_titles_from_bib(os.path.join(year_dir, f"{year}ICSE_Artifact_Functional.bib"))
+    ai_titles = extract_titles_from_bib(os.path.join(year_dir, f"{year}ICSE_AI.bib"))
     
     # Add artifact flags to papers
     for paper in papers:
@@ -171,6 +172,7 @@ def parse_icse_year(year, output_csv_path):
         paper['artifact_available'] = title in available_titles
         paper['artifact_reusable'] = title in reusable_titles
         paper['artifact_functional'] = title in functional_titles
+        paper['ai'] = title in ai_titles
     
     # Create output directory
     output_dir = os.path.dirname(output_csv_path)
@@ -179,7 +181,7 @@ def parse_icse_year(year, output_csv_path):
     
     # Write to CSV
     with open(output_csv_path, 'w', newline='', encoding='utf-8') as csvfile:
-        fieldnames = ['title', 'authors', 'url', 'abstract', 'artifact_available', 'artifact_reusable', 'artifact_functional']
+        fieldnames = ['title', 'authors', 'url', 'abstract', 'artifact_available', 'artifact_reusable', 'artifact_functional', 'ai']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         
         writer.writeheader()
@@ -191,6 +193,7 @@ def parse_icse_year(year, output_csv_path):
     print(f"  Available: {len(available_titles)} papers")
     print(f"  Reusable: {len(reusable_titles)} papers")
     print(f"  Functional: {len(functional_titles)} papers")
+    print(f"  AI: {len(ai_titles)} papers")
     print(f"Results saved to {output_csv_path}")
 
 def main():
