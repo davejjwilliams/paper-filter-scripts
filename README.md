@@ -73,11 +73,11 @@ This script takes as input either [`/results/bib/ICSE2023_papers.csv`](/results/
 Examples:
 
 ```shell
-python assign_reviewers.py results/bib/ICSE2023_papers.csv AI_ICSE2023_papers.csv DW,AA,JP,FS
+python assign_reviewers.py results/bib/ICSE2023_papers.csv AI_ICSE2023_papers.csv DW,AA,FS
 ```
 
 ```shell
-python assign_reviewers.py results/bib/ICSE2024_papers.csv AI_ICSE2024_papers.csv DW,AA,JP,FS
+python assign_reviewers.py results/bib/ICSE2024_papers.csv AI_ICSE2024_papers.csv DW,AA,FS
 ```
 
 Output files are:
