@@ -4,8 +4,6 @@ This repository contains scripts used to fetch and process papers from the ICSE 
 
 ## TODO
 
-- Reviewers to add `True` or `False` to the `relevant` column for the papers assigned to them in [`AI_ICSE2023_papers.csv`](AI_ICSE2023_papers.csv) and [`AI_ICSE2024_papers.csv`](AI_ICSE2024_papers.csv).
-
 ## Setup
 
 To run the scripts, you need to install the required dependencies:
