@@ -48,6 +48,10 @@ python bib-converter.py data/2023/2023ICSE.bib 2023_papers.csv
 python bib-converter.py data/2024/2024ICSE.bib 2024_papers.csv
 ```
 
+```shell
+python bib-converter.py data/2025/2025ICSE.bib 2025_papers.csv
+```
+
 1. If the `icse` param is provided, this will search the relevant directory (e.g. [`/data/2023/`](/data/2023/) for 2023) and retrieve the expected files ([`2023ICSE_Artifact_Available.bib`](/data/2023/2023ICSE_Artifact_Available.bib), [`2023ICSE_Artifact_Reusable.bib`](/data/2023/2023ICSE_Artifact_Reusable.bib), [`2023ICSE_Artifact_Functional.bib`](/data/2023/2023ICSE_Artifact_Functional.bib), and [`2023ICSE_AI.bib`](/data/2023/2023ICSE_AI.bib)) to check which papers have artifacts and to what extent they are replicable. Finally, it produces a CSV with columns Title, Authors, URL, Abstract, Artifacts Available (Bool), Artifacts Reusable (Bool), Artifacts Functional (Bool), and AI (Bool).
 
 The following commands are run to generate the results:
@@ -60,6 +64,10 @@ python bib-converter.py --icse 2023 ICSE2023_papers.csv
 
 ```shell
 python bib-converter.py --icse 2024 ICSE2024_papers.csv
+```
+
+```shell
+python bib-converter.py --icse 2025 ICSE2025_papers.csv
 ```
 
 All outputs are stored in [`/results/bib/`](/results/bib/).
@@ -80,8 +88,9 @@ python assign_reviewers.py results/bib/ICSE2024_papers.csv AI_ICSE2024_papers.cs
 
 Output files are:
 
-- [`AI_ICSE2023_papers.csv`](AI_ICSE2023_papers.csv)
-- [`AI_ICSE2024_papers.csv`](AI_ICSE2024_papers.csv)
+- [`AI_ICSE2023_papers.csv`](./results/ai/AI_ICSE2023_papers.csv)
+- [`AI_ICSE2024_papers.csv`](./results/ai/AI_ICSE2024_papers.csv)
+- [`AI_ICSE2025_papers.csv`](./results/ai/AI_ICSE2025_papers.csv)
 
 ## Analysis
 
