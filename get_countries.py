@@ -9,7 +9,7 @@ def extract_country_with_llm(affiliation: str, model: str = 'gemma3:4b') -> Opti
         return None
     
     prompt = f"""
-    Get the country from this academic affiliation. Return only the country name, nothing else.
+    Get the country from this academic affiliation. Return only one country name, nothing else.
     
     Affiliation: {affiliation}
     
