@@ -6,3 +6,4 @@ nltk
 geopandas
 ollama
 wordcloud
+openpyxl
