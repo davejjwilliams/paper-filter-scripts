@@ -7,3 +7,4 @@ geopandas
 ollama
 wordcloud
 openpyxl
+seaborn
